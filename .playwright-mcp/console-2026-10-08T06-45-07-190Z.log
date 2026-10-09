@@ -1,0 +1,22 @@
+[    1450ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://rahulshettyacademy.com/client/#/auth/login:0
+[    5667ms] [WARNING] [ngx-spinner]: Property "type" is missed. Please, provide animation type to <ngx-spinner> component
+        and ensure css is added to angular.json file @ https://rahulshettyacademy.com/client/435.11ebda32f57c8d490fa0.js:0
+[    5669ms] [WARNING] [ngx-spinner]: Property "type" is missed. Please, provide animation type to <ngx-spinner> component
+        and ensure css is added to angular.json file @ https://rahulshettyacademy.com/client/435.11ebda32f57c8d490fa0.js:0
+[    5950ms] [LOG] 0 @ https://rahulshettyacademy.com/client/135.95eb921e6931c00ece57.js:0
+[    5996ms] [LOG] 1 @ https://rahulshettyacademy.com/client/135.95eb921e6931c00ece57.js:0
+[    6075ms] [LOG] 2 @ https://rahulshettyacademy.com/client/135.95eb921e6931c00ece57.js:0
+[   47771ms] [WARNING] [ngx-spinner]: Property "type" is missed. Please, provide animation type to <ngx-spinner> component
+        and ensure css is added to angular.json file @ https://rahulshettyacademy.com/client/435.11ebda32f57c8d490fa0.js:0
+[   47773ms] [WARNING] [ngx-spinner]: Property "type" is missed. Please, provide animation type to <ngx-spinner> component
+        and ensure css is added to angular.json file @ https://rahulshettyacademy.com/client/435.11ebda32f57c8d490fa0.js:0
+[   48104ms] [LOG] 0 @ https://rahulshettyacademy.com/client/135.95eb921e6931c00ece57.js:0
+[   48162ms] [LOG] 1 @ https://rahulshettyacademy.com/client/135.95eb921e6931c00ece57.js:0
+[   48235ms] [LOG] 2 @ https://rahulshettyacademy.com/client/135.95eb921e6931c00ece57.js:0
+[  324141ms] [WARNING] [ngx-spinner]: Property "type" is missed. Please, provide animation type to <ngx-spinner> component
+        and ensure css is added to angular.json file @ https://rahulshettyacademy.com/client/435.11ebda32f57c8d490fa0.js:0
+[  324144ms] [WARNING] [ngx-spinner]: Property "type" is missed. Please, provide animation type to <ngx-spinner> component
+        and ensure css is added to angular.json file @ https://rahulshettyacademy.com/client/435.11ebda32f57c8d490fa0.js:0
+[  324568ms] [LOG] 0 @ https://rahulshettyacademy.com/client/135.95eb921e6931c00ece57.js:0
+[  324640ms] [LOG] 1 @ https://rahulshettyacademy.com/client/135.95eb921e6931c00ece57.js:0
+[  324715ms] [LOG] 2 @ https://rahulshettyacademy.com/client/135.95eb921e6931c00ece57.js:0
