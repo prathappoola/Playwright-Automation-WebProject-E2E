@@ -50,6 +50,9 @@ export default defineConfig({
     headless: false,
     screenshot:'only-on-failure',
     video: 'retain-on-failure',
+    timeout: 30000,
+    actionTimeout: 10000,
+    navigationTimeout: 15000,
   },
 
   /* Configure projects for major browsers */
