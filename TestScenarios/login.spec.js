@@ -1,18 +1,12 @@
-import { test } from '@playwright/test';
-import { LoginPage } from '../PageObjects/loginPage.js';
+import { test } from './fixtures.js';
 import { HomePage } from '../PageObjects/HomePage.js';
 import { CheckOutPage } from '../PageObjects/CheckOut.js';
 import { PlacceOrderPage } from '../PageObjects/PlaceOrder.js';
 
-test('E2E Scenario 1', async ({ page }) => {
-    const loginPageInstance = new LoginPage(page);
+test('E2E Scenario 1', async ({ page, logoutPage }) => {
     const homePageInstance = new HomePage(page);
     const checkOutPageInstance = new CheckOutPage(page);
     const placeOrderInstance = new PlacceOrderPage(page);
-
-    await loginPageInstance.OpenApplication();
-    await loginPageInstance.VerifyLoginText();
-    await loginPageInstance.LoginToApplication('poola415@gmail.com', 'Poola@2026!@#$');
 
     await homePageInstance.AddToCart();
     await homePageInstance.VerifyHomeButtonPresent();
@@ -26,7 +20,4 @@ test('E2E Scenario 1', async ({ page }) => {
     await placeOrderInstance.EnterNameOnCard('Prathap Poola');
     await placeOrderInstance.ClickOnPlaceOrderButton();
     await placeOrderInstance.VerifyPlaceOrderText();
-
-    await homePageInstance.LogoutFromApplication();
-    await loginPageInstance.CloseApplication();
 });

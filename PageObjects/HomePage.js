@@ -19,8 +19,8 @@ export class HomePage {
         await expect(this.homeButton).toBeVisible({ timeout: 15000 });
     }
 
-    async LogoutFromApplication() {
-        await this.signOutButton.click();
-    }
+    // async LogoutFromApplication() {
+    //     await this.signOutButton.click();
+    // }
 }
 
