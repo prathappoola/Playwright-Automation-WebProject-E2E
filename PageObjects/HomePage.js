@@ -7,6 +7,7 @@ export class HomePage {
         this.cartButton = page.getByRole('button', { name: /Cart/ }).first();
         this.signOutButton = page.getByRole('button', { name: 'Sign Out' });
         this.homeButton = page.getByRole('button', { name: 'HOME' });
+        this.AddToCartButtonForZaraCoat2 = page.locator('button').filter({ hasText: 'Add To Cart' }).nth(1)
     }
 
     async AddToCart() {
@@ -19,8 +20,8 @@ export class HomePage {
         await expect(this.homeButton).toBeVisible({ timeout: 15000 });
     }
 
-    // async LogoutFromApplication() {
-    //     await this.signOutButton.click();
-    // }
+      async AddToCartForZaraCoat2() {
+        await this.AddToCartButtonForZaraCoat2.click();
+    }
 }
 

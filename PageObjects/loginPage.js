@@ -7,6 +7,8 @@ export class LoginPage {
         this.passwordInput = page.locator('#userPassword');
         this.loginButton = page.locator('#login');
         this.loginText = page.getByRole('heading', { name: 'Log in' });
+      
+
     }
 
     async OpenApplication() {
@@ -27,4 +29,5 @@ export class LoginPage {
     async CloseApplication() {
         await this.page.close();
     }
+
 }
