@@ -7,8 +7,6 @@ export class LoginPage {
         this.passwordInput = page.locator('#userPassword');
         this.loginButton = page.locator('#login');
         this.loginText = page.getByRole('heading', { name: 'Log in' });
-      
-
     }
 
     async OpenApplication() {
@@ -25,9 +23,4 @@ export class LoginPage {
     async VerifyLoginText() {
         await expect(this.loginText).toBeVisible({ timeout: 15000 });
     }
-
-    async CloseApplication() {
-        await this.page.close();
-    }
-
 }

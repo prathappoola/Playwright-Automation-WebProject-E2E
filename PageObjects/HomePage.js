@@ -7,7 +7,10 @@ export class HomePage {
         this.cartButton = page.getByRole('button', { name: /Cart/ }).first();
         this.signOutButton = page.getByRole('button', { name: 'Sign Out' });
         this.homeButton = page.getByRole('button', { name: 'HOME' });
-        this.AddToCartButtonForZaraCoat2 = page.locator('button').filter({ hasText: 'Add To Cart' }).nth(1)
+        this.AddToCartButtonForZaraCoat2 = page
+            .locator('button')
+            .filter({ hasText: 'Add To Cart' })
+            .nth(1);
     }
 
     async AddToCart() {
