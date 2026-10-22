@@ -1,6 +1,6 @@
-import { test } from './fixtures.js';
-import { CheckOutPage } from '../PageObjects/CheckOut.js';
-import { PlacceOrderPage } from '../PageObjects/PlaceOrder.js';
+import { test } from './fixtures.ts';
+import { CheckOutPage } from '../PageObjects/CheckOut.ts';
+import { PlacceOrderPage } from '../PageObjects/PlaceOrder.ts';
 
 test('E2E Scenario 1', async ({ page, authenticatedSession }) => {
     const { homePage } = authenticatedSession;
