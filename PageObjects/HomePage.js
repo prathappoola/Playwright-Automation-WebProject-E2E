@@ -20,8 +20,11 @@ export class HomePage {
         await expect(this.homeButton).toBeVisible({ timeout: 15000 });
     }
 
-      async AddToCartForZaraCoat2() {
+    async AddToCartForZaraCoat2() {
         await this.AddToCartButtonForZaraCoat2.click();
     }
-}
 
+    async LogoutFromApplication() {
+        await this.signOutButton.click();
+    }
+}
