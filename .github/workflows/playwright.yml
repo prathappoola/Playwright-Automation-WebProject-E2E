@@ -19,6 +19,8 @@ jobs:
       run: npx playwright install --with-deps
     - name: Run login tests
       run: npx playwright test TestScenarios_ts/login.spec.ts --project=chromium
+    - name: Run API tests
+      run: npx playwright test APITestingGet.spec.ts
       env:
         PLAYWRIGHT_USERNAME: ${{ secrets.PLAYWRIGHT_USERNAME }}
         PLAYWRIGHT_PASSWORD: ${{ secrets.PLAYWRIGHT_PASSWORD }}
