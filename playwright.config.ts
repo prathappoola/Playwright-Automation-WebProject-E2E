@@ -36,7 +36,8 @@ export default defineConfig({
       outputFolder: 'allure-results',    // Directory where raw test results are stored
       detail: true,
       suiteTitle: true
-    }]
+    }],
+    ['github']
  ],
  
   timeout: 60000,
@@ -47,12 +48,16 @@ export default defineConfig({
 
     /* Collect trace when retrying the failed test. See https://playwright.dev/docs/trace-viewer */
     trace: 'retain-on-failure',
-    headless: false,
+    headless: true,
     screenshot:'only-on-failure',
     video: 'retain-on-failure',
-    timeout: 30000,
     actionTimeout: 10000,
     navigationTimeout: 15000,
+    baseURL: "https://restful-booker.herokuapp.com/booking",
+    extraHTTPHeaders: {
+      Accept: "application/json",
+      "Content-Type": "application/json"
+    },
   },
 
   /* Configure projects for major browsers */

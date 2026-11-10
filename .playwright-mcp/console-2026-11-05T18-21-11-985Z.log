@@ -1,0 +1,4 @@
+[     304ms] [ERROR] Error with Permissions-Policy header: Parse of permissions policy failed because of errors reported by structured header parser. @ :0
+[     699ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://test.3i-infotech.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1:1
+[    1704ms] TypeError: Cannot read properties of null (reading 'setAttribute')
+    at https://test.3i-infotech.com/wp-content/cache/min/1/wp-content/uploads/phlox-pro/custom.js?ver=1793811708:13:109

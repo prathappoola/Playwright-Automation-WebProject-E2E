@@ -1,0 +1,257 @@
+- generic [active] [ref=f4e1]:
+  - link "Talk to an Expert" [ref=f4e2] [cursor=pointer]:
+    - /url: "#contact-us"
+  - generic [ref=f4e3]:
+    - banner [ref=f4e4]:
+      - generic [ref=f4e8]:
+        - generic [ref=f4e11]:
+          - link [ref=f4e12] [cursor=pointer]:
+            - /url: https://test.3i-infotech.com/
+            - img "3i-Infotech-Logo.png" [ref=f4e13]
+          - heading [level=3] [ref=f4e14]:
+            - link "3i Infotech" [ref=f4e15] [cursor=pointer]:
+              - /url: https://test.3i-infotech.com/
+        - generic [ref=f4e19]:
+          - text:  
+          - navigation [ref=f4e21]:
+            - list [ref=f4e22]:
+              - listitem [ref=f4e23]:
+                - link "Industries" [ref=f4e24] [cursor=pointer]:
+                  - /url: https://test.3i-infotech.com/
+                  - text: Industries 
+              - listitem [ref=f4e25]:
+                - link "Offerings" [ref=f4e26] [cursor=pointer]:
+                  - /url: "#"
+                  - text: Offerings 
+              - listitem [ref=f4e27]:
+                - link "Investors" [ref=f4e28] [cursor=pointer]:
+                  - /url: https://test.3i-infotech.com/investors/
+              - listitem [ref=f4e29]:
+                - link "Company" [ref=f4e30] [cursor=pointer]:
+                  - /url: "#"
+                  - text: Company 
+              - listitem [ref=f4e31]:
+                - link "Perspectives" [ref=f4e32] [cursor=pointer]:
+                  - /url: https://test.3i-infotech.com/perspectives/
+              - listitem [ref=f4e33]:
+                - link "Contact Us" [ref=f4e34] [cursor=pointer]:
+                  - /url: https://test.3i-infotech.com/contact-us/
+              - listitem [ref=f4e35]:
+                - link [ref=f4e36] [cursor=pointer]:
+                  - /url: "#"
+                  - text: 
+          - generic:
+            - navigation:    
+        - generic [ref=f4e40]:
+          - button [ref=f4e42] [cursor=pointer]
+          - text: 
+    - banner [ref=f4e44]:
+      - 'heading "Results for: Annual Report" [level=1] [ref=f4e50]'
+    - main [ref=f4e51]:
+      - generic [ref=f4e53]:
+        - main [ref=f4e55]:
+          - separator [ref=f4e56]
+          - generic [ref=f4e57]:
+            - text: Pages
+            - link "Show All Pages Results" [ref=f4e59] [cursor=pointer]:
+              - /url: /?s=Annual+Report&post_type=page
+          - generic [ref=f4e61]:
+            - article [ref=f4e63]:
+              - link [ref=f4e66] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/annual-report/
+                - img "Investors-banner" [ref=f4e67]
+              - generic [ref=f4e68]:
+                - heading [level=4] [ref=f4e70]:
+                  - link "Annual Report" [ref=f4e71] [cursor=pointer]:
+                    - /url: https://test.3i-infotech.com/annual-report/
+                - generic [ref=f4e72]:
+                  - link [ref=f4e74] [cursor=pointer]:
+                    - /url: https://test.3i-infotech.com/annual-report/
+                    - time [ref=f4e75]: April 21, 2026
+                  - text: by
+                  - link "Manikandaprabhu FT" [ref=f4e77] [cursor=pointer]:
+                    - /url: https://test.3i-infotech.com/author/manikandaprabhu-ft/
+                - paragraph [ref=f4e79]: "Annual Report .wrapper { background: #fff; width: 100%; height: auto; /*padding: 1px 20px;*/ display: flex; ..."
+                - link "Read More →" [ref=f4e82] [cursor=pointer]:
+                  - /url: https://test.3i-infotech.com/annual-report/
+            - article [ref=f4e84]:
+              - link [ref=f4e87] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/annual-return-of-material-indian-subsidiaries/
+                - img "Investors-banner" [ref=f4e88]
+              - generic [ref=f4e89]:
+                - heading [level=4] [ref=f4e91]:
+                  - link "Annual Return of Material Indian Subsidiaries" [ref=f4e92] [cursor=pointer]:
+                    - /url: https://test.3i-infotech.com/annual-return-of-material-indian-subsidiaries/
+                - generic [ref=f4e93]:
+                  - link [ref=f4e95] [cursor=pointer]:
+                    - /url: https://test.3i-infotech.com/annual-return-of-material-indian-subsidiaries/
+                    - time [ref=f4e96]: November 4, 2026
+                  - text: by
+                  - link "Manikandaprabhu FT" [ref=f4e98] [cursor=pointer]:
+                    - /url: https://test.3i-infotech.com/author/manikandaprabhu-ft/
+                - paragraph [ref=f4e100]: "Annual Return of Material Indian Subsidiaries .container-accordion-investors{ background: #fff; max-width: 100%; wi ..."
+                - link "Read More →" [ref=f4e103] [cursor=pointer]:
+                  - /url: https://test.3i-infotech.com/annual-return-of-material-indian-subsidiaries/
+            - article [ref=f4e105]:
+              - link [ref=f4e108] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/annual-return/
+                - img "Investors-banner" [ref=f4e109]
+              - generic [ref=f4e110]:
+                - heading [level=4] [ref=f4e112]:
+                  - link "Annual Return" [ref=f4e113] [cursor=pointer]:
+                    - /url: https://test.3i-infotech.com/annual-return/
+                - generic [ref=f4e114]:
+                  - link [ref=f4e116] [cursor=pointer]:
+                    - /url: https://test.3i-infotech.com/annual-return/
+                    - time [ref=f4e117]: November 4, 2026
+                  - text: by
+                  - link "Manikandaprabhu FT" [ref=f4e119] [cursor=pointer]:
+                    - /url: https://test.3i-infotech.com/author/manikandaprabhu-ft/
+                - paragraph [ref=f4e121]: "Annual Return .wrapper { background: #fff; width: 100%; height: auto; /*padding: 1px 20px;*/ display: flex; ..."
+                - link "Read More →" [ref=f4e124] [cursor=pointer]:
+                  - /url: https://test.3i-infotech.com/annual-return/
+            - article [ref=f4e126]:
+              - link [ref=f4e129] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/secretarial-compliance-report/
+                - img "Investors-banner" [ref=f4e130]
+              - generic [ref=f4e131]:
+                - heading [level=4] [ref=f4e133]:
+                  - link "Secretarial Compliance Report" [ref=f4e134] [cursor=pointer]:
+                    - /url: https://test.3i-infotech.com/secretarial-compliance-report/
+                - generic [ref=f4e135]:
+                  - link [ref=f4e137] [cursor=pointer]:
+                    - /url: https://test.3i-infotech.com/secretarial-compliance-report/
+                    - time [ref=f4e138]: November 4, 2026
+                  - text: by
+                  - link "Manikandaprabhu FT" [ref=f4e140] [cursor=pointer]:
+                    - /url: https://test.3i-infotech.com/author/manikandaprabhu-ft/
+                - paragraph [ref=f4e142]: "Secretarial Compliance Report .wrapper { background: #fff; width: 100%; height: auto; /*padding: 1px 20px;*/ ..."
+                - link "Read More →" [ref=f4e145] [cursor=pointer]:
+                  - /url: https://test.3i-infotech.com/secretarial-compliance-report/
+        - complementary [ref=f4e146]:
+          - generic [ref=f4e149]:
+            - generic [ref=f4e150]:
+              - heading "Recent Posts" [level=3] [ref=f4e151]
+              - list [ref=f4e152]:
+                - listitem [ref=f4e153]:
+                  - link "Navigating Application Modernization Without Risking Sensitive Data" [ref=f4e154] [cursor=pointer]:
+                    - /url: https://test.3i-infotech.com/navigating-application-modernization-without-risking-sensitive-data/
+                - listitem [ref=f4e155]:
+                  - link "Smart Manufacturing Needs Smarter IT Backbone" [ref=f4e156] [cursor=pointer]:
+                    - /url: https://test.3i-infotech.com/smart-manufacturing-needs-smarter-it-backbone/
+                - listitem [ref=f4e157]:
+                  - 'link "From Contact Centres to Experience Hubs: A 2025 Outlook" [ref=f4e158] [cursor=pointer]':
+                    - /url: https://test.3i-infotech.com/from-contact-centres-to-experience-hubs-a-2025-outlook/
+                - listitem [ref=f4e159]:
+                  - link "Powering Digital Transformation with Oracle Integration Cloud (OIC) Gen3" [ref=f4e160] [cursor=pointer]:
+                    - /url: https://test.3i-infotech.com/powering-digital-transformation-with-oracle-integration-cloud-oic-gen3-2/
+                - listitem [ref=f4e161]:
+                  - link "Leading the Conversation on India’s Digital Security" [ref=f4e162] [cursor=pointer]:
+                    - /url: https://test.3i-infotech.com/leading-the-conversation-on-indias-digital-security/
+            - generic [ref=f4e163]:
+              - heading "Find Us" [level=3] [ref=f4e164]
+              - paragraph [ref=f4e166]:
+                - strong [ref=f4e167]: "Registered Office Address:"
+                - text: "International Infotech Park, Vashi Railway Station Complex, Tower #5, 3rd Floor & Tower #6, 6th Floor, Vashi, Navi Mumbai, Maharashtra 400703"
+    - contentinfo [ref=f4e168]:
+      - generic [ref=f4e173]:
+        - generic [ref=f4e175]:
+          - list [ref=f4e179]:
+            - listitem [ref=f4e180]:
+              - link "Banking & Financial Services" [ref=f4e181] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/banking-and-finance/
+            - listitem [ref=f4e183]:
+              - link "Insurance" [ref=f4e184] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/insurance/
+            - listitem [ref=f4e186]:
+              - link "Government" [ref=f4e187] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/government/
+            - listitem [ref=f4e189]:
+              - link "Education" [ref=f4e190] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/education/
+            - listitem [ref=f4e192]:
+              - link "Telecom, Media & Entertainment" [ref=f4e193] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/telecom/
+            - listitem [ref=f4e195]:
+              - link "Manufacturing" [ref=f4e196] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/manufacturing/
+            - listitem [ref=f4e198]:
+              - link "Healthcare" [ref=f4e199] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/healthcare/
+          - list [ref=f4e203]:
+            - listitem [ref=f4e204]:
+              - link "About Us" [ref=f4e205] [cursor=pointer]:
+                - /url: /company
+            - listitem [ref=f4e207]:
+              - link "Life@3i" [ref=f4e208] [cursor=pointer]:
+                - /url: /life-at-3i
+            - listitem [ref=f4e210]:
+              - link "Investors" [ref=f4e211] [cursor=pointer]:
+                - /url: /Investors/
+            - listitem [ref=f4e213]:
+              - link "Perspectives" [ref=f4e214] [cursor=pointer]:
+                - /url: /Perspectives/
+            - listitem [ref=f4e216]:
+              - link "Contact Us" [ref=f4e217] [cursor=pointer]:
+                - /url: /Contact-us/
+          - generic [ref=f4e219]:
+            - generic [ref=f4e221]:
+              - generic [aria-hidden] [ref=f4e224]: 
+              - generic [ref=f4e225]:
+                - heading "Business & Marketing Enquiries" [level=3] [ref=f4e226]
+                - paragraph [ref=f4e227]:
+                  - link "marketing@3i-infotech.com" [ref=f4e228] [cursor=pointer]:
+                    - /url: mailto:marketing@3i-infotech.com
+            - generic [ref=f4e230]:
+              - generic [aria-hidden] [ref=f4e233]: 
+              - generic [ref=f4e234]:
+                - heading "Career Enquiries" [level=3] [ref=f4e235]
+                - paragraph [ref=f4e236]:
+                  - link "careers@3i-infotech.com" [ref=f4e237] [cursor=pointer]:
+                    - /url: mailto:careers@3i-infotech.com
+            - generic [ref=f4e239]:
+              - generic [aria-hidden] [ref=f4e242]: 
+              - generic [ref=f4e243]:
+                - heading "Alumni Enquiries" [level=3] [ref=f4e244]
+                - paragraph [ref=f4e245]:
+                  - link "alumni@3i-infotech.com" [ref=f4e246] [cursor=pointer]:
+                    - /url: mailto:alumni@3i-infotech.com
+        - generic [ref=f4e247]:
+          - generic [ref=f4e248]: ©2026 3i Infotech Limited. All Rights Reserved.
+          - list [ref=f4e251]:
+            - listitem [ref=f4e252]:
+              - link "Contact" [ref=f4e253] [cursor=pointer]:
+                - /url: /contact-us/
+            - listitem [ref=f4e255]:
+              - link "Privacy Policy" [ref=f4e256] [cursor=pointer]:
+                - /url: /privacy-policy/
+            - listitem [ref=f4e258]:
+              - link "Location" [ref=f4e259] [cursor=pointer]:
+                - /url: /company/#footprint
+            - listitem [ref=f4e261]:
+              - link "Site Map" [ref=f4e262] [cursor=pointer]:
+                - /url: /sitemap.xml
+            - listitem [ref=f4e264]:
+              - link "Grievance Redressal" [ref=f4e265] [cursor=pointer]:
+                - /url: /grievance-redressal/
+          - list [ref=f4e268]:
+            - listitem [ref=f4e269]:
+              - link "Linkedin" [ref=f4e270] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/3i-infotech/?originalSubdomain=in
+            - listitem [ref=f4e274]:
+              - link "X-twitter" [ref=f4e275] [cursor=pointer]:
+                - /url: https://x.com/3iInfotech
+            - listitem [ref=f4e279]:
+              - link "Youtube" [ref=f4e280] [cursor=pointer]:
+                - /url: https://www.youtube.com/@3iinfotechltd
+            - listitem [ref=f4e284]:
+              - link "Instagram" [ref=f4e285] [cursor=pointer]:
+                - /url: https://www.instagram.com/3iinfotechofficial/
+  - generic:
+    - generic [ref=f4e290] [cursor=pointer]
+    - generic [ref=f4e292]:
+      - generic [ref=f4e293] [cursor=pointer]
+      - generic [ref=f4e294]: Shopping Basket
+    - text: 
+  - generic [ref=f4e296] [cursor=pointer]
+  - generic [ref=f4e299]: desktop

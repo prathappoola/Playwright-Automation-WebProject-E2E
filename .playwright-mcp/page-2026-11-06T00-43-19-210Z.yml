@@ -1,0 +1,359 @@
+- generic [active] [ref=f1e1]:
+  - link "Talk to an Expert" [ref=f1e2] [cursor=pointer]:
+    - /url: "#contact-us"
+  - generic [ref=f1e3]:
+    - banner [ref=f1e4]:
+      - generic [ref=f1e8]:
+        - generic [ref=f1e11]:
+          - link [ref=f1e12] [cursor=pointer]:
+            - /url: https://test.3i-infotech.com/
+            - img "3i-Infotech-Logo.png" [ref=f1e13]
+          - heading [level=3] [ref=f1e14]:
+            - link "3i Infotech" [ref=f1e15] [cursor=pointer]:
+              - /url: https://test.3i-infotech.com/
+        - generic [ref=f1e19]:
+          - text:  
+          - navigation [ref=f1e21]:
+            - list [ref=f1e22]:
+              - listitem [ref=f1e23]:
+                - link "Industries" [ref=f1e24] [cursor=pointer]:
+                  - /url: https://test.3i-infotech.com/
+                  - text: Industries 
+              - listitem [ref=f1e25]:
+                - link "Offerings" [ref=f1e26] [cursor=pointer]:
+                  - /url: "#"
+                  - text: Offerings 
+              - listitem [ref=f1e27]:
+                - link "Investors" [ref=f1e28] [cursor=pointer]:
+                  - /url: https://test.3i-infotech.com/investors/
+              - listitem [ref=f1e29]:
+                - link "Company" [ref=f1e30] [cursor=pointer]:
+                  - /url: "#"
+                  - text: Company 
+              - listitem [ref=f1e31]:
+                - link "Perspectives" [ref=f1e32] [cursor=pointer]:
+                  - /url: https://test.3i-infotech.com/perspectives/
+              - listitem [ref=f1e33]:
+                - link "Contact Us" [ref=f1e34] [cursor=pointer]:
+                  - /url: https://test.3i-infotech.com/contact-us/
+              - listitem [ref=f1e35]:
+                - link [ref=f1e36] [cursor=pointer]:
+                  - /url: "#"
+                  - text: 
+          - generic:
+            - navigation:    
+        - generic [ref=f1e40]:
+          - button [ref=f1e42] [cursor=pointer]
+          - text: 
+    - generic [ref=f1e44]:
+      - heading "Contact Us" [level=2] [ref=f1e52]
+      - generic [ref=f1e53]:
+        - generic [ref=f1e56]:
+          - heading "Get in touch with us" [level=3] [ref=f1e57]
+          - paragraph [ref=f1e58]
+          - generic [ref=f1e59]:
+            - heading "Business & Marketing Enquiries" [level=5] [ref=f1e60]
+            - generic [aria-hidden] [ref=f1e62]: 
+            - link "marketing@3i-infotech.com" [ref=f1e63] [cursor=pointer]:
+              - /url: mailto:marketing@3i-infotech.com
+          - generic [ref=f1e64]:
+            - heading "Career Enquiries" [level=5] [ref=f1e65]
+            - generic [aria-hidden] [ref=f1e67]: 
+            - link "careers@3i-infotech.com" [ref=f1e68] [cursor=pointer]:
+              - /url: mailto:careers@3i-infotech.com
+          - generic [ref=f1e69]:
+            - heading "Alumni Enquiries" [level=5] [ref=f1e70]
+            - generic [aria-hidden] [ref=f1e72]: 
+            - link "alumni@3i-infotech.com" [ref=f1e73] [cursor=pointer]:
+              - /url: mailto:alumni@3i-infotech.com
+        - generic [ref=f1e77]:
+          - generic [ref=f1e78]:
+            - status
+            - list
+          - form "Contact form" [ref=f1e79]:
+            - generic [ref=f1e80]:
+              - generic [ref=f1e81]:
+                - paragraph [ref=f1e83]:
+                  - generic [ref=f1e84]: Type of enquiry*
+                  - combobox [ref=f1e86] [cursor=pointer]:
+                    - option "Select an enquiry type" [selected]
+                    - option "Business Enquiries / Request For Service"
+                    - option "Employment and Careers"
+                    - option "Marketing"
+                    - option "Sales"
+                    - option "Investor Information"
+                    - option "Offices"
+                    - option "Partnerships"
+                    - option "Others"
+                - paragraph [ref=f1e88]:
+                  - generic [ref=f1e89]: Additional Information
+                  - textbox [ref=f1e92]
+              - generic [ref=f1e93]:
+                - paragraph [ref=f1e95]:
+                  - generic [ref=f1e96]: Name*
+                  - textbox [ref=f1e99]
+                - paragraph [ref=f1e101]:
+                  - generic [ref=f1e102]: Email Address*
+                  - textbox [ref=f1e105]
+              - generic [ref=f1e106]:
+                - paragraph [ref=f1e108]:
+                  - generic [ref=f1e109]: Organisation*
+                  - textbox [ref=f1e112]
+                - paragraph [ref=f1e114]:
+                  - generic [ref=f1e115]: Job Title
+                  - textbox [ref=f1e118]
+              - generic [ref=f1e119]:
+                - paragraph [ref=f1e121]:
+                  - generic [ref=f1e122]: Phone Number
+                  - textbox [ref=f1e125]
+                - paragraph [ref=f1e127]:
+                  - generic [ref=f1e128]: Country*
+                  - combobox [ref=f1e130] [cursor=pointer]:
+                    - option "Select" [selected]
+                    - option "Afghanistan"
+                    - option "Albania"
+                    - option "Algeria"
+                    - option "Andorra"
+                    - option "Angola"
+                    - option "Argentina"
+                    - option "Armenia"
+                    - option "Australia"
+                    - option "Austria"
+                    - option "Azerbaijan"
+                    - option "Bahamas"
+                    - option "Bahrain"
+                    - option "Bangladesh"
+                    - option "Barbados"
+                    - option "Belarus"
+                    - option "Belgium"
+                    - option "Belize"
+                    - option "Benin"
+                    - option "Bhutan"
+                    - option "Bolivia"
+                    - option "Bosnia and Herzegovina"
+                    - option "Botswana"
+                    - option "Brazil"
+                    - option "Brunei"
+                    - option "Bulgaria"
+                    - option "Cambodia"
+                    - option "Cameroon"
+                    - option "Canada"
+                    - option "Chile"
+                    - option "China"
+                    - option "Colombia"
+                    - option "Costa Rica"
+                    - option "Croatia"
+                    - option "Cyprus"
+                    - option "Czech Republic"
+                    - option "Denmark"
+                    - option "Dominican Republic"
+                    - option "Ecuador"
+                    - option "Egypt"
+                    - option "Estonia"
+                    - option "Ethiopia"
+                    - option "Fiji"
+                    - option "Finland"
+                    - option "France"
+                    - option "Georgia"
+                    - option "Germany"
+                    - option "Ghana"
+                    - option "Greece"
+                    - option "Guatemala"
+                    - option "Honduras"
+                    - option "Hungary"
+                    - option "Iceland"
+                    - option "India"
+                    - option "Indonesia"
+                    - option "Iran"
+                    - option "Iraq"
+                    - option "Ireland"
+                    - option "Israel"
+                    - option "Italy"
+                    - option "Jamaica"
+                    - option "Japan"
+                    - option "Jordan"
+                    - option "Kazakhstan"
+                    - option "Kenya"
+                    - option "Kuwait"
+                    - option "Laos"
+                    - option "Latvia"
+                    - option "Lebanon"
+                    - option "Libya"
+                    - option "Liechtenstein"
+                    - option "Lithuania"
+                    - option "Luxembourg"
+                    - option "Malaysia"
+                    - option "Maldives"
+                    - option "Malta"
+                    - option "Mauritius"
+                    - option "Mexico"
+                    - option "Monaco"
+                    - option "Mongolia"
+                    - option "Montenegro"
+                    - option "Morocco"
+                    - option "Myanmar"
+                    - option "Nepal"
+                    - option "Netherlands"
+                    - option "New Zealand"
+                    - option "Nigeria"
+                    - option "Norway"
+                    - option "Oman"
+                    - option "Pakistan"
+                    - option "Panama"
+                    - option "Paraguay"
+                    - option "Peru"
+                    - option "Philippines"
+                    - option "Poland"
+                    - option "Portugal"
+                    - option "Qatar"
+                    - option "Romania"
+                    - option "Russia"
+                    - option "Saudi Arabia"
+                    - option "Serbia"
+                    - option "Singapore"
+                    - option "Slovakia"
+                    - option "Slovenia"
+                    - option "South Africa"
+                    - option "South Korea"
+                    - option "Spain"
+                    - option "Sri Lanka"
+                    - option "Sweden"
+                    - option "Switzerland"
+                    - option "Taiwan"
+                    - option "Thailand"
+                    - option "Tunisia"
+                    - option "Turkey"
+                    - option "Uganda"
+                    - option "Ukraine"
+                    - option "United Arab Emirates"
+                    - option "United Kingdom"
+                    - option "United States"
+                    - option "Uruguay"
+                    - option "Uzbekistan"
+                    - option "Venezuela"
+                    - option "Vietnam"
+                    - option "Yemen"
+                    - option "Zambia"
+                    - option "Zimbabwe"
+                    - option "Other"
+              - paragraph [ref=f1e133]:
+                - generic [ref=f1e134]: Message*
+                - textbox [ref=f1e137]
+              - paragraph [ref=f1e139]:
+                - button "Submit" [ref=f1e140] [cursor=pointer]
+      - generic [ref=f1e142]:
+        - heading "Global footprint" [level=2] [ref=f1e144]
+        - heading "Built to Transform. Designed for the World." [level=3] [ref=f1e146]
+        - generic [ref=f1e150]:
+          - generic [ref=f1e152] [cursor=pointer]: 
+          - generic [ref=f1e156] [cursor=pointer]: 
+          - generic [ref=f1e160] [cursor=pointer]: 
+          - generic [ref=f1e164] [cursor=pointer]: 
+          - generic [ref=f1e168] [cursor=pointer]: 
+          - generic [ref=f1e172] [cursor=pointer]: 
+          - generic [ref=f1e176] [cursor=pointer]: 
+          - generic [ref=f1e180] [cursor=pointer]: 
+          - generic [ref=f1e184] [cursor=pointer]: 
+          - generic [ref=f1e188] [cursor=pointer]: 
+    - contentinfo [ref=f1e192]:
+      - generic [ref=f1e197]:
+        - generic [ref=f1e199]:
+          - list [ref=f1e203]:
+            - listitem [ref=f1e204]:
+              - link "Banking & Financial Services" [ref=f1e205] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/banking-and-finance/
+            - listitem [ref=f1e207]:
+              - link "Insurance" [ref=f1e208] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/insurance/
+            - listitem [ref=f1e210]:
+              - link "Government" [ref=f1e211] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/government/
+            - listitem [ref=f1e213]:
+              - link "Education" [ref=f1e214] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/education/
+            - listitem [ref=f1e216]:
+              - link "Telecom, Media & Entertainment" [ref=f1e217] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/telecom/
+            - listitem [ref=f1e219]:
+              - link "Manufacturing" [ref=f1e220] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/manufacturing/
+            - listitem [ref=f1e222]:
+              - link "Healthcare" [ref=f1e223] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/healthcare/
+          - list [ref=f1e227]:
+            - listitem [ref=f1e228]:
+              - link "About Us" [ref=f1e229] [cursor=pointer]:
+                - /url: /company
+            - listitem [ref=f1e231]:
+              - link "Life@3i" [ref=f1e232] [cursor=pointer]:
+                - /url: /life-at-3i
+            - listitem [ref=f1e234]:
+              - link "Investors" [ref=f1e235] [cursor=pointer]:
+                - /url: /Investors/
+            - listitem [ref=f1e237]:
+              - link "Perspectives" [ref=f1e238] [cursor=pointer]:
+                - /url: /Perspectives/
+            - listitem [ref=f1e240]:
+              - link "Contact Us" [ref=f1e241] [cursor=pointer]:
+                - /url: /Contact-us/
+          - generic [ref=f1e243]:
+            - generic [ref=f1e245]:
+              - generic [aria-hidden] [ref=f1e248]: 
+              - generic [ref=f1e249]:
+                - heading "Business & Marketing Enquiries" [level=3] [ref=f1e250]
+                - paragraph [ref=f1e251]:
+                  - link "marketing@3i-infotech.com" [ref=f1e252] [cursor=pointer]:
+                    - /url: mailto:marketing@3i-infotech.com
+            - generic [ref=f1e254]:
+              - generic [aria-hidden] [ref=f1e257]: 
+              - generic [ref=f1e258]:
+                - heading "Career Enquiries" [level=3] [ref=f1e259]
+                - paragraph [ref=f1e260]:
+                  - link "careers@3i-infotech.com" [ref=f1e261] [cursor=pointer]:
+                    - /url: mailto:careers@3i-infotech.com
+            - generic [ref=f1e263]:
+              - generic [aria-hidden] [ref=f1e266]: 
+              - generic [ref=f1e267]:
+                - heading "Alumni Enquiries" [level=3] [ref=f1e268]
+                - paragraph [ref=f1e269]:
+                  - link "alumni@3i-infotech.com" [ref=f1e270] [cursor=pointer]:
+                    - /url: mailto:alumni@3i-infotech.com
+        - generic [ref=f1e271]:
+          - generic [ref=f1e272]: ©2026 3i Infotech Limited. All Rights Reserved.
+          - list [ref=f1e275]:
+            - listitem [ref=f1e276]:
+              - link "Contact" [ref=f1e277] [cursor=pointer]:
+                - /url: /contact-us/
+            - listitem [ref=f1e279]:
+              - link "Privacy Policy" [ref=f1e280] [cursor=pointer]:
+                - /url: /privacy-policy/
+            - listitem [ref=f1e282]:
+              - link "Location" [ref=f1e283] [cursor=pointer]:
+                - /url: /company/#footprint
+            - listitem [ref=f1e285]:
+              - link "Site Map" [ref=f1e286] [cursor=pointer]:
+                - /url: /sitemap.xml
+            - listitem [ref=f1e288]:
+              - link "Grievance Redressal" [ref=f1e289] [cursor=pointer]:
+                - /url: /grievance-redressal/
+          - list [ref=f1e292]:
+            - listitem [ref=f1e293]:
+              - link "Linkedin" [ref=f1e294] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/3i-infotech/?originalSubdomain=in
+            - listitem [ref=f1e298]:
+              - link "X-twitter" [ref=f1e299] [cursor=pointer]:
+                - /url: https://x.com/3iInfotech
+            - listitem [ref=f1e303]:
+              - link "Youtube" [ref=f1e304] [cursor=pointer]:
+                - /url: https://www.youtube.com/@3iinfotechltd
+            - listitem [ref=f1e308]:
+              - link "Instagram" [ref=f1e309] [cursor=pointer]:
+                - /url: https://www.instagram.com/3iinfotechofficial/
+  - generic:
+    - generic [ref=f1e314] [cursor=pointer]
+    - generic [ref=f1e316]:
+      - generic [ref=f1e317] [cursor=pointer]
+      - generic [ref=f1e318]: Shopping Basket
+    - text: 
+  - generic [ref=f1e320] [cursor=pointer]
+  - generic [ref=f1e323]: desktop

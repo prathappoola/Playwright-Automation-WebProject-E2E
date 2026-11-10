@@ -1,0 +1,299 @@
+- generic [active] [ref=f6e1]:
+  - link "Talk to an Expert" [ref=f6e2] [cursor=pointer]:
+    - /url: "#contact-us"
+  - generic [ref=f6e3]:
+    - banner [ref=f6e4]:
+      - generic [ref=f6e8]:
+        - generic [ref=f6e11]:
+          - link [ref=f6e12] [cursor=pointer]:
+            - /url: https://test.3i-infotech.com/
+            - img "3i-Infotech-Logo.png" [ref=f6e13]
+          - heading [level=3] [ref=f6e14]:
+            - link "3i Infotech" [ref=f6e15] [cursor=pointer]:
+              - /url: https://test.3i-infotech.com/
+        - generic [ref=f6e19]:
+          - text:  
+          - navigation [ref=f6e21]:
+            - list [ref=f6e22]:
+              - listitem [ref=f6e23]:
+                - link "Industries" [ref=f6e24] [cursor=pointer]:
+                  - /url: https://test.3i-infotech.com/
+                  - text: Industries 
+              - listitem [ref=f6e25]:
+                - link "Offerings" [ref=f6e26] [cursor=pointer]:
+                  - /url: "#"
+                  - text: Offerings 
+              - listitem [ref=f6e27]:
+                - link "Investors" [ref=f6e28] [cursor=pointer]:
+                  - /url: https://test.3i-infotech.com/investors/
+              - listitem [ref=f6e29]:
+                - link "Company" [ref=f6e30] [cursor=pointer]:
+                  - /url: "#"
+                  - text: Company 
+              - listitem [ref=f6e31]:
+                - link "Perspectives" [ref=f6e32] [cursor=pointer]:
+                  - /url: https://test.3i-infotech.com/perspectives/
+              - listitem [ref=f6e33]:
+                - link "Contact Us" [ref=f6e34] [cursor=pointer]:
+                  - /url: https://test.3i-infotech.com/contact-us/
+              - listitem [ref=f6e35]:
+                - link [ref=f6e36] [cursor=pointer]:
+                  - /url: "#"
+                  - text: 
+          - generic:
+            - navigation:    
+        - generic [ref=f6e40]:
+          - button [ref=f6e42] [cursor=pointer]
+          - text: 
+    - generic [ref=f6e44]:
+      - heading "Annual Report" [level=2] [ref=f6e51]
+      - generic [ref=f6e53]:
+        - generic [ref=f6e57]:
+          - generic [ref=f6e59]:
+            - button [ref=f6e1329] [cursor=pointer]:
+              - text: FY24-25
+              - img "arrow-down" [ref=f6e1331]
+            - list:
+              - listitem [ref=f6e1308] [cursor=pointer]: FY25-26
+              - listitem [ref=f6e1309] [cursor=pointer]: FY24-25
+              - listitem [ref=f6e1310] [cursor=pointer]: FY23-24
+              - listitem [ref=f6e1311] [cursor=pointer]: FY22-23
+              - listitem [ref=f6e1312] [cursor=pointer]: FY21-22
+              - listitem [ref=f6e1313] [cursor=pointer]: FY20-21
+              - listitem [ref=f6e1314] [cursor=pointer]: FY19-20
+              - listitem [ref=f6e1315] [cursor=pointer]: FY18-19
+              - listitem [ref=f6e1316] [cursor=pointer]: FY17-18
+              - listitem [ref=f6e1317] [cursor=pointer]: FY16-17
+              - listitem [ref=f6e1318] [cursor=pointer]: FY15-16
+              - listitem [ref=f6e1319] [cursor=pointer]: FY14-15
+              - listitem [ref=f6e1320] [cursor=pointer]: FY13-14
+              - listitem [ref=f6e1321] [cursor=pointer]: FY12-13
+              - listitem [ref=f6e1322] [cursor=pointer]: FY11-12
+              - listitem [ref=f6e1323] [cursor=pointer]: FY10-11
+              - listitem [ref=f6e1324] [cursor=pointer]: FY09-10
+              - listitem [ref=f6e1325] [cursor=pointer]: FY08-09
+              - listitem [ref=f6e1326] [cursor=pointer]: FY07-08
+              - listitem [ref=f6e1327] [cursor=pointer]: FY06-07
+              - listitem [ref=f6e1328] [cursor=pointer]: FY05-06
+          - generic [ref=f6e1332]:
+            - heading "FY24-25" [level=4] [ref=f6e1333]
+            - paragraph [ref=f6e1334]:
+              - paragraph [ref=f6e1335]:
+                - link "Annual Report FY 2024 – 2025" [ref=f6e1336] [cursor=pointer]:
+                  - /url: https://www.3i-infotech.com/wp-content/uploads/2025/08/3i-Infotech_AR_2024-25.pdf
+              - paragraph [ref=f6e1338]:
+                - link "Business Responsibility and Sustainability Report – FY 2024-25" [ref=f6e1339] [cursor=pointer]:
+                  - /url: https://www.3i-infotech.com/wp-content/uploads/2025/08/BRSR_2024-25.pdf
+              - paragraph [ref=f6e1341]:
+                - link "Web-link of the Annual Report for the Financial Year 2024-25" [ref=f6e1342] [cursor=pointer]:
+                  - /url: https://www.3i-infotech.com/wp-content/uploads/2025/08/Web-link-of-the-Annual-Report-for-the-Financial-Year-2024-25.pdf
+              - heading "Subsidiaries financial statement for the period ended March 31, 2025" [level=3] [ref=f6e1344]
+              - paragraph [ref=f6e1345]:
+                - link "3i Infotech Netherland B. V." [ref=f6e1346] [cursor=pointer]:
+                  - /url: https://www.3i-infotech.com/wp-content/uploads/2026/01/3I-Infotech-Netherlands-BV_Annual-accounts-2024-25-signed-1.pdf
+              - paragraph [ref=f6e1348]:
+                - link "3i Infotech (South Africa)(Pty)Ltd." [ref=f6e1349] [cursor=pointer]:
+                  - /url: https://www.3i-infotech.com/wp-content/uploads/2026/01/2025-AFS-3I-Infotech-South-Africa-Pty-Ltd.pdf
+              - paragraph [ref=f6e1351]:
+                - link "Nure Digital Sdn Bhd" [ref=f6e1352] [cursor=pointer]:
+                  - /url: https://www.3i-infotech.com/wp-content/uploads/2025/11/Audited-Financial-Statements-FYE-31.03.2025_Nure-Digital-Sdn-Bhd.pdf
+              - paragraph [ref=f6e1354]:
+                - link "3i Infotech Canada Inc." [ref=f6e1355] [cursor=pointer]:
+                  - /url: https://www.3i-infotech.com/wp-content/uploads/2025/10/3I-Infotech-Canada-Inc.-2025-03-31.pdf
+              - paragraph [ref=f6e1357]:
+                - link "Professional Access Software Development Private Limited" [ref=f6e1358] [cursor=pointer]:
+                  - /url: https://www.3i-infotech.com/wp-content/uploads/2025/10/Professional-Access-Software-Development-Private-Limited.pdf
+              - paragraph [ref=f6e1360]:
+                - link "3i Infotech Saudi Arabia Co. (Foreign Limited)" [ref=f6e1361] [cursor=pointer]:
+                  - /url: https://www.3i-infotech.com/wp-content/uploads/2026/01/3i-Infotech-Saudi-Arabia-Co.-Foreign-Limited.pdf
+              - paragraph [ref=f6e1363]:
+                - link "3i Infotech Consultancy Limited" [ref=f6e1364] [cursor=pointer]:
+                  - /url: https://www.3i-infotech.com/wp-content/uploads/2025/09/3i-Infotech-Consultancy-services-Ltd.pdf
+              - paragraph [ref=f6e1366]:
+                - link "3i Infotech Digital BPS Limited" [ref=f6e1367] [cursor=pointer]:
+                  - /url: https://www.3i-infotech.com/wp-content/uploads/2025/09/3i-Infotech-Digital-BPS-Limited.pdf
+              - paragraph [ref=f6e1369]:
+                - link "3i Infotech Holdings Private Limited" [ref=f6e1370] [cursor=pointer]:
+                  - /url: https://www.3i-infotech.com/wp-content/uploads/2025/10/Audited-Financial-statement_3i-Infotech-Holding_31032025.pdf
+              - paragraph [ref=f6e1372]:
+                - link "3i Infotech Nigeria Limited" [ref=f6e1373] [cursor=pointer]:
+                  - /url: https://www.3i-infotech.com/wp-content/uploads/2025/09/Financial-Statement-_-3i-Infotech-Nigeria.pdf
+              - paragraph [ref=f6e1375]:
+                - link "NuRe Campus" [ref=f6e1376] [cursor=pointer]:
+                  - /url: https://www.3i-infotech.com/wp-content/uploads/2025/08/Nure-Campus.pdf
+              - paragraph [ref=f6e1378]:
+                - link "NuRe Bharat Network Limited" [ref=f6e1379] [cursor=pointer]:
+                  - /url: https://www.3i-infotech.com/wp-content/uploads/2025/08/Nure-Bharat-Network-Limited.pdf
+              - paragraph [ref=f6e1381]:
+                - link "NuRe Edgetech Private Limited" [ref=f6e1382] [cursor=pointer]:
+                  - /url: https://www.3i-infotech.com/wp-content/uploads/2025/08/Nure-Edgetech-Private-Limited.pdf
+              - paragraph [ref=f6e1384]:
+                - link "NuRe Futuretech Private Limited" [ref=f6e1385] [cursor=pointer]:
+                  - /url: https://www.3i-infotech.com/wp-content/uploads/2025/08/Nure-Futuretech-Private-Limited.pdf
+              - paragraph [ref=f6e1387]:
+                - link "NuRe Mediatech Ltd" [ref=f6e1388] [cursor=pointer]:
+                  - /url: https://www.3i-infotech.com/wp-content/uploads/2025/08/Nure-Mediatech-Ltd.pdf
+              - paragraph [ref=f6e1390]:
+                - link "Versares Digital Technology" [ref=f6e1391] [cursor=pointer]:
+                  - /url: https://www.3i-infotech.com/wp-content/uploads/2025/08/Versares-Digital-Technology.pdf
+              - paragraph [ref=f6e1393]:
+                - link "3i Infotech (Cyprus) Limited" [ref=f6e1394] [cursor=pointer]:
+                  - /url: https://www.3i-infotech.com/wp-content/uploads/2025/08/3i-Infotech-Cyprus-Limited.pdf
+              - paragraph [ref=f6e1396]:
+                - link "3i Infotech (Middle East) FZ LLC" [ref=f6e1397] [cursor=pointer]:
+                  - /url: https://www.3i-infotech.com/wp-content/uploads/2025/08/3i-Infotech-Middle-East-FZ-LLC.pdf
+              - paragraph [ref=f6e1399]:
+                - link "3i Infotech (Thailand) Limited" [ref=f6e1400] [cursor=pointer]:
+                  - /url: https://www.3i-infotech.com/wp-content/uploads/2025/08/3i-Infotech-Thailand-Limited.pdf
+              - paragraph [ref=f6e1402]:
+                - link "3i Infotech Inc" [ref=f6e1403] [cursor=pointer]:
+                  - /url: https://www.3i-infotech.com/wp-content/uploads/2025/11/3i-Infotech-Inc.pdf
+              - paragraph [ref=f6e1405]:
+                - link "3i Infotech SDN BHD" [ref=f6e1406] [cursor=pointer]:
+                  - /url: https://www.3i-infotech.com/wp-content/uploads/2025/08/3i-Infotech-SDN-BHD.pdf
+              - paragraph [ref=f6e1408]:
+                - link "3i Infotech Software Solutions LLC" [ref=f6e1409] [cursor=pointer]:
+                  - /url: https://www.3i-infotech.com/wp-content/uploads/2025/08/3i-Infotech-Software-Solutions-LLC.pdf
+              - paragraph [ref=f6e1411]:
+                - link "3i Infotech Africa Ltd" [ref=f6e1412] [cursor=pointer]:
+                  - /url: https://www.3i-infotech.com/wp-content/uploads/2025/08/3i-Infotech-Africa-Ltd.pdf
+        - generic [ref=f6e1091]:
+          - heading "Investors Information Hub" [level=4] [ref=f6e1093]
+          - generic [ref=f6e1094]:
+            - heading "Financial Results" [level=6] [ref=f6e1101]
+            - link [ref=f6e1102] [cursor=pointer]:
+              - /url: https://test.3i-infotech.com/financial-results/
+          - generic [ref=f6e1103]:
+            - heading "Investor Meet" [level=6] [ref=f6e1110]
+            - link [ref=f6e1111] [cursor=pointer]:
+              - /url: https://test.3i-infotech.com/investor-meet/
+          - generic [ref=f6e1112]:
+            - heading "Annual Report" [level=6] [ref=f6e1119]
+            - link [ref=f6e1120] [cursor=pointer]:
+              - /url: https://test.3i-infotech.com/annual-report/
+          - generic [ref=f6e1121]:
+            - heading "Corporate Governance" [level=6] [ref=f6e1128]
+            - link [ref=f6e1129] [cursor=pointer]:
+              - /url: https://test.3i-infotech.com/corporate-governance/
+          - generic [ref=f6e1130]:
+            - heading "Disclosures under regulation 46 of SEBI LODR" [level=6] [ref=f6e1137]
+            - link [ref=f6e1138] [cursor=pointer]:
+              - /url: https://test.3i-infotech.com/disclosures-under-regulation-46-of-sebi-lodr/
+          - generic [ref=f6e1139]:
+            - heading "Announcement" [level=6] [ref=f6e1146]
+            - link [ref=f6e1147] [cursor=pointer]:
+              - /url: https://test.3i-infotech.com/investor-announcement/
+          - generic [ref=f6e1148]:
+            - heading "Scheme of Arrangement / Amalgamation" [level=6] [ref=f6e1155]
+            - link [ref=f6e1156] [cursor=pointer]:
+              - /url: https://test.3i-infotech.com/scheme-of-arrangement-scheme-of-amalgamation/
+          - generic [ref=f6e1157]:
+            - heading "Investor Information" [level=6] [ref=f6e1164]
+            - link [ref=f6e1165] [cursor=pointer]:
+              - /url: https://test.3i-infotech.com/investor-information/
+          - generic [ref=f6e1166]:
+            - heading "Rights Issue" [level=6] [ref=f6e1173]
+            - link [ref=f6e1174] [cursor=pointer]:
+              - /url: https://test.3i-infotech.com/rights-issue/
+    - contentinfo [ref=f6e1175]:
+      - generic [ref=f6e1180]:
+        - generic [ref=f6e1182]:
+          - list [ref=f6e1186]:
+            - listitem [ref=f6e1187]:
+              - link "Banking & Financial Services" [ref=f6e1188] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/banking-and-finance/
+            - listitem [ref=f6e1190]:
+              - link "Insurance" [ref=f6e1191] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/insurance/
+            - listitem [ref=f6e1193]:
+              - link "Government" [ref=f6e1194] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/government/
+            - listitem [ref=f6e1196]:
+              - link "Education" [ref=f6e1197] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/education/
+            - listitem [ref=f6e1199]:
+              - link "Telecom, Media & Entertainment" [ref=f6e1200] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/telecom/
+            - listitem [ref=f6e1202]:
+              - link "Manufacturing" [ref=f6e1203] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/manufacturing/
+            - listitem [ref=f6e1205]:
+              - link "Healthcare" [ref=f6e1206] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/healthcare/
+          - list [ref=f6e1210]:
+            - listitem [ref=f6e1211]:
+              - link "About Us" [ref=f6e1212] [cursor=pointer]:
+                - /url: /company
+            - listitem [ref=f6e1214]:
+              - link "Life@3i" [ref=f6e1215] [cursor=pointer]:
+                - /url: /life-at-3i
+            - listitem [ref=f6e1217]:
+              - link "Investors" [ref=f6e1218] [cursor=pointer]:
+                - /url: /Investors/
+            - listitem [ref=f6e1220]:
+              - link "Perspectives" [ref=f6e1221] [cursor=pointer]:
+                - /url: /Perspectives/
+            - listitem [ref=f6e1223]:
+              - link "Contact Us" [ref=f6e1224] [cursor=pointer]:
+                - /url: /Contact-us/
+          - generic [ref=f6e1226]:
+            - generic [ref=f6e1228]:
+              - generic [aria-hidden] [ref=f6e1231]: 
+              - generic [ref=f6e1232]:
+                - heading "Business & Marketing Enquiries" [level=3] [ref=f6e1233]
+                - paragraph [ref=f6e1234]:
+                  - link "marketing@3i-infotech.com" [ref=f6e1235] [cursor=pointer]:
+                    - /url: mailto:marketing@3i-infotech.com
+            - generic [ref=f6e1237]:
+              - generic [aria-hidden] [ref=f6e1240]: 
+              - generic [ref=f6e1241]:
+                - heading "Career Enquiries" [level=3] [ref=f6e1242]
+                - paragraph [ref=f6e1243]:
+                  - link "careers@3i-infotech.com" [ref=f6e1244] [cursor=pointer]:
+                    - /url: mailto:careers@3i-infotech.com
+            - generic [ref=f6e1246]:
+              - generic [aria-hidden] [ref=f6e1249]: 
+              - generic [ref=f6e1250]:
+                - heading "Alumni Enquiries" [level=3] [ref=f6e1251]
+                - paragraph [ref=f6e1252]:
+                  - link "alumni@3i-infotech.com" [ref=f6e1253] [cursor=pointer]:
+                    - /url: mailto:alumni@3i-infotech.com
+        - generic [ref=f6e1254]:
+          - generic [ref=f6e1255]: ©2026 3i Infotech Limited. All Rights Reserved.
+          - list [ref=f6e1258]:
+            - listitem [ref=f6e1259]:
+              - link "Contact" [ref=f6e1260] [cursor=pointer]:
+                - /url: /contact-us/
+            - listitem [ref=f6e1262]:
+              - link "Privacy Policy" [ref=f6e1263] [cursor=pointer]:
+                - /url: /privacy-policy/
+            - listitem [ref=f6e1265]:
+              - link "Location" [ref=f6e1266] [cursor=pointer]:
+                - /url: /company/#footprint
+            - listitem [ref=f6e1268]:
+              - link "Site Map" [ref=f6e1269] [cursor=pointer]:
+                - /url: /sitemap.xml
+            - listitem [ref=f6e1271]:
+              - link "Grievance Redressal" [ref=f6e1272] [cursor=pointer]:
+                - /url: /grievance-redressal/
+          - list [ref=f6e1275]:
+            - listitem [ref=f6e1276]:
+              - link "Linkedin" [ref=f6e1277] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/3i-infotech/?originalSubdomain=in
+            - listitem [ref=f6e1281]:
+              - link "X-twitter" [ref=f6e1282] [cursor=pointer]:
+                - /url: https://x.com/3iInfotech
+            - listitem [ref=f6e1286]:
+              - link "Youtube" [ref=f6e1287] [cursor=pointer]:
+                - /url: https://www.youtube.com/@3iinfotechltd
+            - listitem [ref=f6e1291]:
+              - link "Instagram" [ref=f6e1292] [cursor=pointer]:
+                - /url: https://www.instagram.com/3iinfotechofficial/
+  - generic:
+    - generic [ref=f6e1297] [cursor=pointer]
+    - generic [ref=f6e1299]:
+      - generic [ref=f6e1300] [cursor=pointer]
+      - generic [ref=f6e1301]: Shopping Basket
+    - text: 
+  - generic [ref=f6e1303] [cursor=pointer]
+  - generic [ref=f6e1306]: desktop

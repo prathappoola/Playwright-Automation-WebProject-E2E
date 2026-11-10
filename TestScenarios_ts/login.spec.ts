@@ -1,4 +1,4 @@
-import { test } from './fixtures.js';
+import { test } from './fixtures';
 import { CheckOutPage } from '../PageObjects/CheckOut.js';
 import { PlacceOrderPage } from '../PageObjects/PlaceOrder.js';
 

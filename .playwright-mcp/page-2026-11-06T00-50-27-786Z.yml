@@ -1,0 +1,315 @@
+- generic [active] [ref=f8e1]:
+  - link "Talk to an Expert" [ref=f8e2] [cursor=pointer]:
+    - /url: "#contact-us"
+  - generic [ref=f8e3]:
+    - banner [ref=f8e4]:
+      - generic [ref=f8e8]:
+        - generic [ref=f8e11]:
+          - link [ref=f8e12] [cursor=pointer]:
+            - /url: https://test.3i-infotech.com/
+            - img "3i-Infotech-Logo.png" [ref=f8e13]
+          - heading [level=3] [ref=f8e14]:
+            - link "3i Infotech" [ref=f8e15] [cursor=pointer]:
+              - /url: https://test.3i-infotech.com/
+        - generic [ref=f8e19]:
+          - text:  
+          - navigation [ref=f8e21]:
+            - list [ref=f8e22]:
+              - listitem [ref=f8e23]:
+                - link "Industries" [ref=f8e24] [cursor=pointer]:
+                  - /url: https://test.3i-infotech.com/
+                  - text: Industries 
+              - listitem [ref=f8e25]:
+                - link "Offerings" [ref=f8e26] [cursor=pointer]:
+                  - /url: "#"
+                  - text: Offerings 
+              - listitem [ref=f8e27]:
+                - link "Investors" [ref=f8e28] [cursor=pointer]:
+                  - /url: https://test.3i-infotech.com/investors/
+              - listitem [ref=f8e29]:
+                - link "Company" [ref=f8e30] [cursor=pointer]:
+                  - /url: "#"
+                  - text: Company 
+              - listitem [ref=f8e31]:
+                - link "Perspectives" [ref=f8e32] [cursor=pointer]:
+                  - /url: https://test.3i-infotech.com/perspectives/
+              - listitem [ref=f8e33]:
+                - link "Contact Us" [ref=f8e34] [cursor=pointer]:
+                  - /url: https://test.3i-infotech.com/contact-us/
+              - listitem [ref=f8e35]:
+                - link [ref=f8e36] [cursor=pointer]:
+                  - /url: "#"
+                  - text: 
+          - generic:
+            - navigation:    
+        - generic [ref=f8e40]:
+          - button [ref=f8e42] [cursor=pointer]
+          - text: 
+    - generic [ref=f8e44]:
+      - generic [ref=f8e46]:
+        - generic [ref=f8e47]:
+          - heading "Empowering Stakeholder Value" [level=2] [ref=f8e49]
+          - paragraph [ref=f8e53]: Transparent financial reporting, sustainable growth, and long-term enterprise value.
+        - generic [ref=f8e54]:
+          - generic [ref=f8e55]: Financial Reporting
+          - generic [ref=f8e61]:
+            - generic [ref=f8e62]: FY2026 Financial Highlights
+            - generic [ref=f8e63]: ₹ 687.5 Crore
+          - generic [ref=f8e66]:
+            - generic [ref=f8e67]: Q2 FY27 Financial Highlights
+            - generic [ref=f8e68]: ₹ 182 Crore
+          - generic [ref=f8e71]:
+            - heading "3i Infotech Live Share •" [level=4] [ref=f8e72]
+            - generic [ref=f8e73]:
+              - generic [ref=f8e74]: "NSE:"
+              - strong [ref=f8e76]: Loading...
+            - generic [ref=f8e77]:
+              - generic [ref=f8e78]: "BSE:"
+              - strong [ref=f8e80]: Loading...
+            - generic [ref=f8e81]: 06 Nov 26 | 06:20 am Pricing delayed 15 minutes
+      - generic [ref=f8e82]:
+        - generic [ref=f8e83]:
+          - heading "Financial Year" [level=4] [ref=f8e85]
+          - generic [ref=f8e86]:
+            - combobox [ref=f8e87]:
+              - option "FY26-27" [selected]
+              - option "FY25-26"
+              - option "FY24-25"
+              - option "FY23-24"
+              - option "FY22-23"
+              - option "FY21-22"
+              - option "FY20-21"
+              - option "FY19-20"
+              - option "FY18-19"
+              - option "FY17-18"
+              - option "FY16-17"
+              - option "FY15-16"
+              - option "FY14-15"
+              - option "FY13-14"
+              - option "FY12-13"
+              - option "FY11-12"
+              - option "FY10-11"
+              - option "FY09-10"
+              - option "FY08-09"
+              - option "FY07-08"
+              - option "FY06-07"
+              - option "FY05-06"
+            - paragraph [ref=f8e89]: Annual Report not released for this year
+            - paragraph [ref=f8e91]:
+              - link "Subsidiary Financial Statements" [ref=f8e92] [cursor=pointer]:
+                - /url: /annual-report
+          - generic "Tabs. Open items with Enter or Space, close with Escape and navigate using the Arrow keys." [ref=f8e95]:
+            - tablist [ref=f8e96]:
+              - tab "Q1" [selected] [ref=f8e97] [cursor=pointer]
+              - tab "Q2" [ref=f8e99] [cursor=pointer]
+            - tabpanel "Q1" [ref=f8e102]:
+              - generic [ref=f8e105]:
+                - generic [ref=f8e106]:
+                  - generic [ref=f8e107]: Financial Results
+                  - paragraph [ref=f8e108]:
+                    - link "Unaudited financial results for the quarter ended June 30, 2026" [ref=f8e109] [cursor=pointer]:
+                      - /url: https://www.3i-infotech.com/wp-content/uploads/2026/07/Unaudited-financial-results-for-the-quarter-ended-June-30-2026.pdf
+                  - link "View All" [ref=f8e112] [cursor=pointer]:
+                    - /url: /financial-results
+                - generic [ref=f8e113]:
+                  - generic [ref=f8e114]: Investor Meeting
+                  - paragraph [ref=f8e115]:
+                    - link "Transcript – Earnings call held on July 27, 2026" [ref=f8e116] [cursor=pointer]:
+                      - /url: https://www.3i-infotech.com/wp-content/uploads/2026/08/3i-Infotech_Q1FY27_Earning-call.pdf
+                  - paragraph [ref=f8e118]:
+                    - link "Recording link of the Earnings Call held on July 27, 2026" [ref=f8e119] [cursor=pointer]:
+                      - /url: https://www.3i-infotech.com/wp-content/uploads/2026/07/Outcome-of-Q1FY27-Earnings-Call_signed.pdf
+                  - link "View All" [ref=f8e122] [cursor=pointer]:
+                    - /url: /investor-meet
+        - generic [ref=f8e124]:
+          - heading "Investors Information Hub" [level=4] [ref=f8e126]
+          - generic [ref=f8e127]:
+            - heading "Financial Results" [level=6] [ref=f8e134]
+            - link [ref=f8e135] [cursor=pointer]:
+              - /url: https://test.3i-infotech.com/financial-results/
+          - generic [ref=f8e136]:
+            - heading "Investor Meet" [level=6] [ref=f8e143]
+            - link [ref=f8e144] [cursor=pointer]:
+              - /url: https://test.3i-infotech.com/investor-meet/
+          - generic [ref=f8e145]:
+            - heading "Annual Report" [level=6] [ref=f8e152]
+            - link [ref=f8e153] [cursor=pointer]:
+              - /url: https://test.3i-infotech.com/annual-report/
+          - generic [ref=f8e154]:
+            - heading "Corporate Governance" [level=6] [ref=f8e161]
+            - link [ref=f8e162] [cursor=pointer]:
+              - /url: https://test.3i-infotech.com/corporate-governance/
+          - generic [ref=f8e163]:
+            - heading "Disclosures under regulation 46 of SEBI LODR" [level=6] [ref=f8e170]
+            - link [ref=f8e171] [cursor=pointer]:
+              - /url: https://test.3i-infotech.com/disclosures-under-regulation-46-of-sebi-lodr/
+          - generic [ref=f8e172]:
+            - heading "Announcement" [level=6] [ref=f8e179]
+            - link [ref=f8e180] [cursor=pointer]:
+              - /url: https://test.3i-infotech.com/investor-announcement/
+          - generic [ref=f8e181]:
+            - heading "Scheme of Arrangement / Amalgamation" [level=6] [ref=f8e188]
+            - link [ref=f8e189] [cursor=pointer]:
+              - /url: https://test.3i-infotech.com/scheme-of-arrangement-scheme-of-amalgamation/
+          - generic [ref=f8e190]:
+            - heading "Investor Information" [level=6] [ref=f8e197]
+            - link [ref=f8e198] [cursor=pointer]:
+              - /url: https://test.3i-infotech.com/investor-information/
+          - generic [ref=f8e199]:
+            - heading "Rights Issue" [level=6] [ref=f8e206]
+            - link [ref=f8e207] [cursor=pointer]:
+              - /url: https://test.3i-infotech.com/rights-issue/
+      - generic [ref=f8e209]:
+        - generic [ref=f8e210]:
+          - heading "Contact Us" [level=2] [ref=f8e212]
+          - paragraph [ref=f8e214]: Connect with our investor relations team for queries related to financial disclosures, governance, and shareholder services.
+        - generic [ref=f8e215]:
+          - generic [ref=f8e216]:
+            - heading "Mrs. Varika Rastogi" [level=4] [ref=f8e218]
+            - paragraph [ref=f8e226]: Nodal Officer
+            - generic [ref=f8e227]:
+              - text: "3i Infotech Limited Tower # 5, 3rd Floor International Infotech Park, Vashi, Navi Mumbai – 400703, INDIA E-mail:"
+              - link "nodalofficeriepf@3i-infotech.com" [ref=f8e228] [cursor=pointer]:
+                - /url: "mailto: nodalofficeriepf@3i-infotech.com"
+          - generic [ref=f8e229]:
+            - heading "Mrs. Kavita Shenoy" [level=4] [ref=f8e231]
+            - paragraph [ref=f8e239]: Deputy Nodal Officer
+            - generic [ref=f8e240]:
+              - text: "3i Infotech Limited Tower # 5, 3rd Floor International Infotech Park, Vashi, Navi Mumbai – 400703 INDIA Phone:"
+              - link "02271238090" [ref=f8e241] [cursor=pointer]:
+                - /url: tel:+912271238090
+              - text: "E-mail:"
+              - link "kavita.shenoy@3i-infotech.com" [ref=f8e242] [cursor=pointer]:
+                - /url: mailto:kavita.shenoy@3i-infotech.com
+      - generic [ref=f8e245]:
+        - generic [ref=f8e246]:
+          - heading "Get in Touch" [level=2] [ref=f8e248]
+          - paragraph [ref=f8e250]: Reach out for financial disclosures, governance details, or shareholder queries.
+        - generic [ref=f8e254]:
+          - generic [ref=f8e255]:
+            - status
+            - list
+          - form "Contact form" [ref=f8e256]:
+            - generic [ref=f8e257]:
+              - paragraph [ref=f8e259]:
+                - generic [ref=f8e260]: Name*
+                - textbox [ref=f8e263]
+              - paragraph [ref=f8e265]:
+                - generic [ref=f8e266]: Official Email ID*
+                - textbox [ref=f8e269]
+            - generic [ref=f8e270]:
+              - paragraph [ref=f8e272]:
+                - generic [ref=f8e273]: Contact No*
+                - generic [ref=f8e275]:
+                  - 'generic "India (भारत): +91" [ref=f8e277]': "+91"
+                  - textbox [ref=f8e282]
+              - paragraph [ref=f8e284]:
+                - generic [ref=f8e285]: Company Name*
+                - textbox [ref=f8e288]
+            - paragraph [ref=f8e290]:
+              - generic [ref=f8e291]: Comment
+              - textbox [ref=f8e294]
+            - paragraph [ref=f8e296]:
+              - button "Submit" [ref=f8e297] [cursor=pointer]
+    - contentinfo [ref=f8e298]:
+      - generic [ref=f8e303]:
+        - generic [ref=f8e305]:
+          - list [ref=f8e309]:
+            - listitem [ref=f8e310]:
+              - link "Banking & Financial Services" [ref=f8e311] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/banking-and-finance/
+            - listitem [ref=f8e313]:
+              - link "Insurance" [ref=f8e314] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/insurance/
+            - listitem [ref=f8e316]:
+              - link "Government" [ref=f8e317] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/government/
+            - listitem [ref=f8e319]:
+              - link "Education" [ref=f8e320] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/education/
+            - listitem [ref=f8e322]:
+              - link "Telecom, Media & Entertainment" [ref=f8e323] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/telecom/
+            - listitem [ref=f8e325]:
+              - link "Manufacturing" [ref=f8e326] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/manufacturing/
+            - listitem [ref=f8e328]:
+              - link "Healthcare" [ref=f8e329] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/healthcare/
+          - list [ref=f8e333]:
+            - listitem [ref=f8e334]:
+              - link "About Us" [ref=f8e335] [cursor=pointer]:
+                - /url: /company
+            - listitem [ref=f8e337]:
+              - link "Life@3i" [ref=f8e338] [cursor=pointer]:
+                - /url: /life-at-3i
+            - listitem [ref=f8e340]:
+              - link "Investors" [ref=f8e341] [cursor=pointer]:
+                - /url: /Investors/
+            - listitem [ref=f8e343]:
+              - link "Perspectives" [ref=f8e344] [cursor=pointer]:
+                - /url: /Perspectives/
+            - listitem [ref=f8e346]:
+              - link "Contact Us" [ref=f8e347] [cursor=pointer]:
+                - /url: /Contact-us/
+          - generic [ref=f8e349]:
+            - generic [ref=f8e351]:
+              - generic [aria-hidden] [ref=f8e354]: 
+              - generic [ref=f8e355]:
+                - heading "Business & Marketing Enquiries" [level=3] [ref=f8e356]
+                - paragraph [ref=f8e357]:
+                  - link "marketing@3i-infotech.com" [ref=f8e358] [cursor=pointer]:
+                    - /url: mailto:marketing@3i-infotech.com
+            - generic [ref=f8e360]:
+              - generic [aria-hidden] [ref=f8e363]: 
+              - generic [ref=f8e364]:
+                - heading "Career Enquiries" [level=3] [ref=f8e365]
+                - paragraph [ref=f8e366]:
+                  - link "careers@3i-infotech.com" [ref=f8e367] [cursor=pointer]:
+                    - /url: mailto:careers@3i-infotech.com
+            - generic [ref=f8e369]:
+              - generic [aria-hidden] [ref=f8e372]: 
+              - generic [ref=f8e373]:
+                - heading "Alumni Enquiries" [level=3] [ref=f8e374]
+                - paragraph [ref=f8e375]:
+                  - link "alumni@3i-infotech.com" [ref=f8e376] [cursor=pointer]:
+                    - /url: mailto:alumni@3i-infotech.com
+        - generic [ref=f8e377]:
+          - generic [ref=f8e378]: ©2026 3i Infotech Limited. All Rights Reserved.
+          - list [ref=f8e381]:
+            - listitem [ref=f8e382]:
+              - link "Contact" [ref=f8e383] [cursor=pointer]:
+                - /url: /contact-us/
+            - listitem [ref=f8e385]:
+              - link "Privacy Policy" [ref=f8e386] [cursor=pointer]:
+                - /url: /privacy-policy/
+            - listitem [ref=f8e388]:
+              - link "Location" [ref=f8e389] [cursor=pointer]:
+                - /url: /company/#footprint
+            - listitem [ref=f8e391]:
+              - link "Site Map" [ref=f8e392] [cursor=pointer]:
+                - /url: /sitemap.xml
+            - listitem [ref=f8e394]:
+              - link "Grievance Redressal" [ref=f8e395] [cursor=pointer]:
+                - /url: /grievance-redressal/
+          - list [ref=f8e398]:
+            - listitem [ref=f8e399]:
+              - link "Linkedin" [ref=f8e400] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/3i-infotech/?originalSubdomain=in
+            - listitem [ref=f8e404]:
+              - link "X-twitter" [ref=f8e405] [cursor=pointer]:
+                - /url: https://x.com/3iInfotech
+            - listitem [ref=f8e409]:
+              - link "Youtube" [ref=f8e410] [cursor=pointer]:
+                - /url: https://www.youtube.com/@3iinfotechltd
+            - listitem [ref=f8e414]:
+              - link "Instagram" [ref=f8e415] [cursor=pointer]:
+                - /url: https://www.instagram.com/3iinfotechofficial/
+  - generic:
+    - generic [ref=f8e420] [cursor=pointer]
+    - generic [ref=f8e422]:
+      - generic [ref=f8e423] [cursor=pointer]
+      - generic [ref=f8e424]: Shopping Basket
+    - text: 
+  - generic [ref=f8e426] [cursor=pointer]
+  - generic [ref=f8e429]: desktop

@@ -1,0 +1,12 @@
+[      68ms] [ERROR] Error with Permissions-Policy header: Parse of permissions policy failed because of errors reported by structured header parser. @ :0
+[     133ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://test.3i-infotech.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1:1
+[     655ms] TypeError: Cannot read properties of null (reading 'setAttribute')
+    at https://test.3i-infotech.com/wp-content/cache/min/1/wp-content/uploads/phlox-pro/custom.js?ver=1793811708:13:237
+[   42694ms] [ERROR] Error with Permissions-Policy header: Parse of permissions policy failed because of errors reported by structured header parser. @ :0
+[   43006ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://test.3i-infotech.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1:1
+[   43316ms] TypeError: Cannot read properties of null (reading 'setAttribute')
+    at https://test.3i-infotech.com/wp-content/uploads/phlox-pro/custom.js?ver=9.9:197:21
+[   76252ms] [ERROR] Error with Permissions-Policy header: Parse of permissions policy failed because of errors reported by structured header parser. @ :0
+[   76403ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://test.3i-infotech.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1:1
+[   76545ms] TypeError: Cannot read properties of null (reading 'setAttribute')
+    at https://test.3i-infotech.com/wp-content/uploads/phlox-pro/custom.js?ver=9.9:197:21

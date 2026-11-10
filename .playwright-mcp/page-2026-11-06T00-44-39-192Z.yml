@@ -1,0 +1,522 @@
+- generic [active] [ref=f3e1]:
+  - link "Talk to an Expert" [ref=f3e2] [cursor=pointer]:
+    - /url: "#contact-us"
+  - generic [ref=f3e3]:
+    - banner [ref=f3e4]:
+      - generic [ref=f3e8]:
+        - generic [ref=f3e11]:
+          - link [ref=f3e12] [cursor=pointer]:
+            - /url: https://test.3i-infotech.com/
+            - img "3i-Infotech-Logo.png" [ref=f3e13]
+          - heading [level=3] [ref=f3e14]:
+            - link "3i Infotech" [ref=f3e15] [cursor=pointer]:
+              - /url: https://test.3i-infotech.com/
+        - generic [ref=f3e19]:
+          - text:  
+          - navigation [ref=f3e21]:
+            - list [ref=f3e22]:
+              - listitem [ref=f3e23]:
+                - link "Industries" [ref=f3e24] [cursor=pointer]:
+                  - /url: https://test.3i-infotech.com/
+                  - text: Industries 
+              - listitem [ref=f3e25]:
+                - link "Offerings" [ref=f3e26] [cursor=pointer]:
+                  - /url: "#"
+                  - text: Offerings 
+              - listitem [ref=f3e27]:
+                - link "Investors" [ref=f3e28] [cursor=pointer]:
+                  - /url: https://test.3i-infotech.com/investors/
+              - listitem [ref=f3e29]:
+                - link "Company" [ref=f3e30] [cursor=pointer]:
+                  - /url: "#"
+                  - text: Company 
+              - listitem [ref=f3e31]:
+                - link "Perspectives" [ref=f3e32] [cursor=pointer]:
+                  - /url: https://test.3i-infotech.com/perspectives/
+              - listitem [ref=f3e33]:
+                - link "Contact Us" [ref=f3e34] [cursor=pointer]:
+                  - /url: https://test.3i-infotech.com/contact-us/
+              - listitem [ref=f3e35]:
+                - link [ref=f3e36] [cursor=pointer]:
+                  - /url: "#"
+                  - text: 
+          - generic:
+            - navigation:    
+        - generic [ref=f3e40]:
+          - button [ref=f3e42] [cursor=pointer]
+          - text: 
+    - generic [ref=f3e44]:
+      - generic [ref=f3e49]:
+        - generic [ref=f3e50] [cursor=pointer]: 
+        - generic [ref=f3e51] [cursor=pointer]: 
+      - generic [ref=f3e58]:
+        - heading "Make What You Have Smarter" [level=2] [ref=f3e60]
+        - paragraph [ref=f3e62]: NuRe Intelligence sits on top of your existing systems to analyze, optimize, and improve them. From Applications to Infrastructure, it identifies inefficiencies and applies AI-driven enhancements, without the need for complete overhauls.
+        - generic [ref=f3e63]:
+          - link "Know More" [ref=f3e65] [cursor=pointer]:
+            - /url: /NuRe-Intelligence
+          - paragraph
+      - generic [ref=f3e70]:
+        - generic [ref=f3e71]:
+          - generic [ref=f3e72]:
+            - generic [ref=f3e73]: Global IT Solutions
+            - heading "We are 3i Infotech" [level=1] [ref=f3e74]
+            - paragraph [ref=f3e75]: With a legacy spanning 30 years, 3i Infotech has partnered with over 2000+ clients to deliver innovative IT solutions. Our deep expertise in the BFSI sector is evident, contributing to nearly 40% of our revenue.
+            - paragraph [ref=f3e76]: At 3i Infotech, we combine the agility of a nimble company with the trust and pedigree of a seasoned player. We stand out among our competitors by offering both dynamic solutions and reliable service. Let’s work together!
+          - generic [ref=f3e77]:
+            - generic [ref=f3e78]:
+              - heading "5+" [level=2] [ref=f3e79]
+              - paragraph [ref=f3e80]: Countries
+            - generic [ref=f3e81]:
+              - heading "300+" [level=2] [ref=f3e82]
+              - paragraph [ref=f3e83]: Active Clients
+            - generic [ref=f3e84]:
+              - heading "90%" [level=2] [ref=f3e85]
+              - paragraph [ref=f3e86]: Return Clients
+            - generic [ref=f3e87]:
+              - generic [ref=f3e88]: HEADQUARTERED
+              - heading "Mumbai" [level=3] [ref=f3e89]
+              - paragraph [ref=f3e90]: Maharashtra, India
+        - generic [ref=f3e91]:
+          - heading "ACCREDITED & CERTIFIED FOR EXCELLENCE" [level=4] [ref=f3e92]
+          - generic [ref=f3e93]:
+            - generic [ref=f3e94]:
+              - img "CMMI Level 5" [ref=f3e95]
+              - generic [ref=f3e96]: CMMI Level 5
+            - generic [ref=f3e97]:
+              - img "ISO 9001" [ref=f3e98]
+              - generic [ref=f3e99]: ISO 9001
+            - generic [ref=f3e100]:
+              - img "ISO 20000" [ref=f3e101]
+              - generic [ref=f3e102]: ISO 20000
+            - generic [ref=f3e103]:
+              - img "ISO 27001" [ref=f3e104]
+              - generic [ref=f3e105]: ISO 27001
+            - generic [ref=f3e106]:
+              - img "Top Brands" [ref=f3e107]
+              - generic [ref=f3e108]: Top Brands
+      - generic [ref=f3e111]:
+        - generic [ref=f3e112]:
+          - heading "Our Capabilities" [level=2] [ref=f3e114]
+          - heading "End-to-End Digital Capabilities for Faster Transformation" [level=3] [ref=f3e116]
+        - paragraph [ref=f3e120]: With AI, Cloud, Cybersecurity, Analytics, and Intelligent Automation at the core, we help enterprises modernise faster and scale with confidence.
+      - generic [ref=f3e121]:
+        - generic [ref=f3e126] [cursor=pointer]:
+          - generic [ref=f3e127]: Hybrid Cloud Infrastructure Services
+          - generic [ref=f3e128]:
+            - text: Cloud transformation is no longer only about migration. In 3i Infotech Hybrid Cloud Infrastructure Services. . .
+            - link "Know More button-arrow" [ref=f3e129]:
+              - /url: /hybrid-cloud-infrastructure-services-coe/
+              - text: Know More
+              - generic:
+                - img "button-arrow"
+        - generic [ref=f3e133] [cursor=pointer]:
+          - generic [ref=f3e134]: Cyber Security Services
+          - generic [ref=f3e135]:
+            - text: Cyber security is no longer a collection of tools and periodic assessments. . .
+            - link "Know More button-arrow" [ref=f3e136]:
+              - /url: /cyber-security-services-coe/
+              - text: Know More
+              - generic:
+                - img "button-arrow"
+        - generic [ref=f3e140] [cursor=pointer]:
+          - generic [ref=f3e141]: Enterprise Tools, Automation and AIOps
+          - generic [ref=f3e142]:
+            - text: Enterprises do not have a shortage of IT tools. They have fragmented visibility, alert noise. . .
+            - link "Know More button-arrow" [ref=f3e143]:
+              - /url: /enterprise-tools-automation-services-coe/
+              - text: Know More
+              - generic:
+                - img "button-arrow"
+        - generic [ref=f3e147] [cursor=pointer]:
+          - generic [ref=f3e148]: Digital Workplace Services
+          - generic [ref=f3e149]:
+            - text: The digital workplace is no longer defined by devices and tickets. It is defined by the quality. . .
+            - link "Know More button-arrow" [ref=f3e150]:
+              - /url: /digital-workplace-services-coe/
+              - text: Know More
+              - generic:
+                - img "button-arrow"
+        - generic [ref=f3e154] [cursor=pointer]:
+          - generic [ref=f3e155]: AI Led Contact Centre Services
+          - generic [ref=f3e156]:
+            - text: "CX Nova is 3i Infotech’s AI-led Contact Centre Services proposition: human expertise. . ."
+            - link "Know More button-arrow" [ref=f3e157]:
+              - /url: /ai-led-contact-centre-services-coe/
+              - text: Know More
+              - generic:
+                - img "button-arrow"
+        - generic [ref=f3e161] [cursor=pointer]:
+          - generic [ref=f3e162]: Quality Engineering
+          - generic [ref=f3e163]:
+            - text: Shift-Left quality engineering, AI-enabled test automation, performance and security testing, and managed. . .
+            - link "Know More button-arrow" [ref=f3e164]:
+              - /url: /quality-engineering-services-coe/
+              - text: Know More
+              - generic:
+                - img "button-arrow"
+        - generic [ref=f3e168] [cursor=pointer]:
+          - generic [ref=f3e169]: Data & Analytics
+          - generic [ref=f3e170]:
+            - text: Build trusted data foundations, intelligent dashboards, and AI-ready analytics. From data. . .
+            - link "Know More button-arrow" [ref=f3e171]:
+              - /url: /data-and-analytics-services-coe/
+              - text: Know More
+              - generic:
+                - img "button-arrow"
+        - generic [ref=f3e175] [cursor=pointer]:
+          - generic [ref=f3e176]: Enterprise Applications
+          - generic [ref=f3e177]:
+            - text: Process-first, platform-neutral enterprise application transformation across SAP, Oracle. . .
+            - link "Know More button-arrow" [ref=f3e178]:
+              - /url: /enterprise-applications-services-coe/
+              - text: Know More
+              - generic:
+                - img "button-arrow"
+        - generic [ref=f3e182] [cursor=pointer]:
+          - generic [ref=f3e183]: Intelligent Automation
+          - generic [ref=f3e184]:
+            - text: Move from manual, fragmented work and isolated bots to governed, scalable intelligent. . .
+            - link "Know More button-arrow" [ref=f3e185]:
+              - /url: /intelligent-automation-services-coe/
+              - text: Know More
+              - generic:
+                - img "button-arrow"
+        - generic [ref=f3e189] [cursor=pointer]:
+          - generic [ref=f3e190]: Application Engineering
+          - generic [ref=f3e191]:
+            - text: Design, develop, modernize, integrate, secure, and support applications that are cloud-ready. . .
+            - link "Know More button-arrow" [ref=f3e192]:
+              - /url: /application-engineering-services-coe
+              - text: Know More
+              - generic:
+                - img "button-arrow"
+        - generic [ref=f3e196] [cursor=pointer]:
+          - generic [ref=f3e197]: Intelligent Operations Services
+          - generic [ref=f3e198]:
+            - text: "HyperOps is 3i Infotech’s Intelligent Operations Services proposition: domain-led managed operations. . ."
+            - link "Know More button-arrow" [ref=f3e199]:
+              - /url: /intelligent-operations-services-coe
+              - text: Know More
+              - generic:
+                - img "button-arrow"
+        - generic [ref=f3e203] [cursor=pointer]:
+          - generic [ref=f3e204]: RTA Next
+          - generic [ref=f3e205]:
+            - text: "RTA Next is 3i Infotech’s Registrar and Transfer Agent proposition: deep RTA domain experience. . ."
+            - link "Know More button-arrow" [ref=f3e206]:
+              - /url: /rta-next-coe
+              - text: Know More
+              - generic:
+                - img "button-arrow"
+      - generic [ref=f3e207]:
+        - generic [ref=f3e209]:
+          - generic [ref=f3e210]:
+            - heading "Our Partners" [level=2] [ref=f3e212]
+            - heading "Trusted by Leading Global Enterprises Across Diverse Industries" [level=3] [ref=f3e214]
+          - paragraph [ref=f3e218]: Our strategic collaborations with technology leaders help us deliver stronger solutions with measurable business value.
+        - generic [ref=f3e220]:
+          - generic [ref=f3e223]:
+            - img "InsureMO" [ref=f3e227]
+            - img "ServiceNow" [ref=f3e231]
+            - img "Ubona" [ref=f3e235]
+            - img "ManageEngine" [ref=f3e239]
+            - img "Site24x7" [ref=f3e243]
+            - img "Zoho" [ref=f3e247]
+            - img "Lakeside Software" [ref=f3e251]
+            - img "Thales" [ref=f3e255]
+            - img "Thales (1)" [ref=f3e259]
+            - img "Trend Micro" [ref=f3e263]
+            - img "SonicWall" [ref=f3e267]
+            - img "Check Point" [ref=f3e271]
+            - img "Palo Alto Networks" [ref=f3e275]
+            - img "Fortinet" [ref=f3e279]
+            - img "Red Hat" [ref=f3e283]
+            - img "Commvault" [ref=f3e287]
+            - img "IBM" [ref=f3e291]
+            - img "Hitachi Vantara" [ref=f3e295]
+            - img "Ruckus Networks" [ref=f3e299]
+            - img "Juniper Networks" [ref=f3e303]
+            - img "Aruba Networks" [ref=f3e307]
+            - img "Cisco" [ref=f3e311]
+            - img "HP" [ref=f3e315]
+            - img "HPE" [ref=f3e319]
+            - img "DELL" [ref=f3e323]
+            - img "NetApp" [ref=f3e327]
+            - img "Nutanix" [ref=f3e331]
+            - img "Google Cloud Platform" [ref=f3e335]
+            - img "Oracle Cloud" [ref=f3e339]
+            - img "Microsoft Azure" [ref=f3e343]
+            - img "Aquila Cloud" [ref=f3e347]
+            - img "AWS" [ref=f3e351]
+            - img "Snow-flake" [ref=f3e355]
+            - img "Cloudera" [ref=f3e359]
+            - img "Salesforce" [ref=f3e363]
+            - img "SAP" [ref=f3e367]
+            - img "oracle" [ref=f3e371]
+            - img "AutomationEdge" [ref=f3e375]
+            - img "HCLSoft" [ref=f3e379]
+            - img "TestMu-AI-Formerly-LambdaTest-Logo" [ref=f3e383]
+          - link "Explore Partners" [ref=f3e386] [cursor=pointer]:
+            - /url: /partners
+      - generic [ref=f3e387]:
+        - generic [ref=f3e389]:
+          - generic [ref=f3e390]:
+            - heading "Awards & recognition" [level=2] [ref=f3e392]
+            - heading "Certified for Quality Excellence trusted by Global Standards" [level=3] [ref=f3e394]: Certified for Quality Excellencetrusted by Global Standards
+          - paragraph [ref=f3e398]: Our global certifications reinforce ourcommitment to consistent delivery, strong security, and enterprise-grade operations.
+        - generic [ref=f3e401]:
+          - generic [ref=f3e406]:
+            - generic [ref=f3e407]:
+              - heading "Everest Group PEAK Matrix® 2024" [level=3] [ref=f3e409]
+              - paragraph [ref=f3e410]: "'Recognized in Everest Group PEAK Matrix® 2024 for strong capabilities in digital transformation and managed services."
+              - link "Know More" [ref=f3e411] [cursor=pointer]:
+                - /url: https://www.everestgrp.com/report/EGR-2024-33-R-6691/?SearchTerms=Digital%20Transformation%20Services%20for%20Mid-market%20Enterprises%202024
+            - generic [ref=f3e412]:
+              - heading "CMMI Level 5 Maturity Assessment" [level=3] [ref=f3e414]
+              - paragraph [ref=f3e415]: "'Achieved CMMI Level 5 maturity, reflecting excellence in process optimization and quality delivery."
+              - link "Know More" [ref=f3e416] [cursor=pointer]:
+                - /url: https://www.linkedin.com/posts/cmmilevel5-excellenceelevated-qualityfirst-share-7191041243731132417-0PgV/
+            - generic [ref=f3e417]:
+              - heading "Gartner Market Guide 2024" [level=3] [ref=f3e419]
+              - paragraph: Featured in Gartner Market Guide 2024 for delivering innovative and customer-centric IT services.
+              - link "Know More" [ref=f3e420] [cursor=pointer]:
+                - /url: https://www.gartner.com/en/documents/5004131
+            - generic [ref=f3e421]:
+              - heading "Gartner Market Guide for Higher Education SIS 2024" [level=3] [ref=f3e423]
+              - paragraph [ref=f3e424]: NuRe Campus Recognized as a Representative Vendor in Gartner's 2024 Market Guide for Higher Education Student Information Systems
+              - link "Know More" [ref=f3e425] [cursor=pointer]:
+                - /url: https://www.gartner.com/en/documents/5004131
+            - generic [ref=f3e426]:
+              - heading "Gartner Market Guide for OCI Professional & Managed Services 2023" [level=3] [ref=f3e428]
+              - paragraph [ref=f3e429]: Identified as one of the Representative Vendors in the 2023 Gartner Market Guide for Oracle Cloud Infrastructure Professional and Managed Services.
+              - link "Know More" [ref=f3e430] [cursor=pointer]:
+                - /url: https://www.gartner.com/en/documents/4634999
+            - generic [ref=f3e431]:
+              - heading "LACP Gold Award – Annual Report Vision Awards" [level=3] [ref=f3e433]
+              - paragraph [ref=f3e434]: Awarded the Gold Award at the LACP Annual Report Vision Awards, we scored an impressive 98 out of 100.
+              - link "Know More" [ref=f3e435] [cursor=pointer]:
+                - /url: "#"
+          - generic [ref=f3e436]:
+            - button [ref=f3e437] [cursor=pointer]:
+              - img "button-arrow" [ref=f3e438]
+            - button [ref=f3e439] [cursor=pointer]:
+              - img "button-arrow" [ref=f3e440]
+      - generic [ref=f3e441]:
+        - generic [ref=f3e443]:
+          - generic [ref=f3e444]:
+            - heading "Insights" [level=2] [ref=f3e446]
+            - heading "Shaping the Future of Technology with Forward-Thinking Ideas" [level=3] [ref=f3e448]
+          - paragraph [ref=f3e452]: Expert insights, industry perspectivesand strategic thought-leadership to helpbusinesses stay ahead of change.
+        - generic [ref=f3e457]:
+          - generic [ref=f3e458]:
+            - generic [ref=f3e459]:
+              - generic [ref=f3e460]: Blog
+              - text: "| May 14, 2026"
+            - generic [ref=f3e461]:
+              - generic [ref=f3e462]: How is AI impacting the BFSI Industry
+              - generic:
+                - paragraph [ref=f3e463]: "What's Actually Changing, and What It Means for Your Business: For years, \"AI in banking\" was a phrase found in conference keynotes and vendor brochures..."
+                - button [ref=f3e464] [cursor=pointer]:
+                  - link "Read More" [ref=f3e465]:
+                    - /url: /how-is-ai-impacting-the-bfsi-industry/
+          - generic [ref=f3e469]:
+            - generic [ref=f3e470]:
+              - generic [ref=f3e471]: Whitepaper
+              - text: "| May 20, 2026"
+            - generic [ref=f3e472]:
+              - generic [ref=f3e473]: Automation Digital-First Shared Models
+              - generic:
+                - paragraph [ref=f3e474]: The shift towards GBS is set to accelerate as organizations continue to embrace digital transformation.
+                - button [ref=f3e475] [cursor=pointer]:
+                  - link "Read More" [ref=f3e476]:
+                    - /url: "#"
+          - generic [ref=f3e480]:
+            - generic [ref=f3e481]:
+              - generic [ref=f3e482]: Whitepaper
+              - text: "| May 20, 2026"
+            - generic [ref=f3e483]:
+              - generic [ref=f3e484]: Balancing Cloud & Traditional IT Systems
+              - generic:
+                - paragraph [ref=f3e485]: Combine cloud scalability with on-premise stability. Build a resilient and efficient IT ecosystem.
+                - button [ref=f3e486] [cursor=pointer]:
+                  - link "Read More" [ref=f3e487]:
+                    - /url: "#"
+          - generic [ref=f3e491]:
+            - generic [ref=f3e492]:
+              - generic [ref=f3e493]: Blog
+              - text: "| May 18, 2026"
+            - generic [ref=f3e494]:
+              - generic [ref=f3e495]: The Future of Hiring and Workforce Management
+              - generic:
+                - paragraph [ref=f3e496]: A decade ago, workforce management primarily involved scheduling shifts, processing payroll, and maintaining employee records...
+                - button [ref=f3e497] [cursor=pointer]:
+                  - link "Read More" [ref=f3e498]:
+                    - /url: https://test.3i-infotech.com/the-future-of-hiring-and-workforce-management-global-trends-and-emerging-directions/
+          - generic [ref=f3e502]:
+            - generic [ref=f3e503]:
+              - generic [ref=f3e504]: In The Press
+              - text: "| May 20, 2026"
+            - generic [ref=f3e505]:
+              - generic [ref=f3e506]: Turning AI Ambition into Enterprise Advantage
+              - generic:
+                - paragraph [ref=f3e507]: Raj Ahuja, Group CEO of 3i Infotech shares insights on how....
+                - button [ref=f3e508] [cursor=pointer]:
+                  - link "Read More" [ref=f3e509]:
+                    - /url: /turning-ai-ambition-into-enterprise-advantage/
+          - generic [ref=f3e513]:
+            - generic [ref=f3e514]:
+              - generic [ref=f3e515]: Whitepaper
+              - text: "| Dec 28, 2025"
+            - generic [ref=f3e516]:
+              - generic [ref=f3e517]: Customized Cloud Strategy with Cloud Adoption in a Box
+              - generic:
+                - paragraph [ref=f3e518]: Unravel the detailed approach of NuRe’s Cloud Assessment that ensures your IT infrastructure is not just ready but optimized for the cloud…
+                - button [ref=f3e519] [cursor=pointer]:
+                  - link "Read More" [ref=f3e520]:
+                    - /url: "#"
+          - generic [ref=f3e522]:
+            - generic [ref=f3e523]:
+              - generic [ref=f3e524]: Blog
+              - text: "| May 18, 2026"
+            - generic [ref=f3e525]:
+              - generic [ref=f3e526]: "Cutting Through AI Noise: How to Choose What’s Useful for Your Business"
+              - generic:
+                - paragraph [ref=f3e527]: Every business leader is being told they need AI. The pressure comes from every direction at once, competitors announcing AI initiatives...
+                - button [ref=f3e528] [cursor=pointer]:
+                  - link "Read More" [ref=f3e529]:
+                    - /url: https://test.3i-infotech.com/cutting-through-the-ai-noise-how-to-choose-whats-actually-useful-for-your-business/
+      - generic [ref=f3e535]:
+        - generic [ref=f3e536]:
+          - paragraph [ref=f3e538]: Take the Next Step Forward
+          - generic [ref=f3e539]:
+            - heading "From Insights To Action" [level=2] [ref=f3e540]
+            - paragraph [ref=f3e541]: Expert insights, industry perspectivesand strategic thought-leadership to help businesses stay ahead of change.
+        - generic [ref=f3e545]:
+          - generic [ref=f3e546]:
+            - status
+            - list
+          - form "Contact form" [ref=f3e547]:
+            - generic [ref=f3e548]:
+              - paragraph [ref=f3e550]:
+                - generic [ref=f3e551]: Name*
+                - textbox [ref=f3e554]
+              - paragraph [ref=f3e556]:
+                - generic [ref=f3e557]: Official Email ID*
+                - textbox [ref=f3e560]
+            - generic [ref=f3e561]:
+              - paragraph [ref=f3e563]:
+                - generic [ref=f3e564]: Contact No*
+                - generic [ref=f3e566]:
+                  - 'generic "India (भारत): +91" [ref=f3e568]': "+91"
+                  - textbox [ref=f3e573]
+              - paragraph [ref=f3e575]:
+                - generic [ref=f3e576]: Company Name*
+                - textbox [ref=f3e579]
+            - paragraph [ref=f3e581]:
+              - generic [ref=f3e582]: Comment
+              - textbox [ref=f3e585]
+            - paragraph [ref=f3e587]:
+              - button "Submit" [ref=f3e588] [cursor=pointer]
+    - contentinfo [ref=f3e589]:
+      - generic [ref=f3e594]:
+        - generic [ref=f3e596]:
+          - list [ref=f3e600]:
+            - listitem [ref=f3e601]:
+              - link "Banking & Financial Services" [ref=f3e602] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/banking-and-finance/
+            - listitem [ref=f3e604]:
+              - link "Insurance" [ref=f3e605] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/insurance/
+            - listitem [ref=f3e607]:
+              - link "Government" [ref=f3e608] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/government/
+            - listitem [ref=f3e610]:
+              - link "Education" [ref=f3e611] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/education/
+            - listitem [ref=f3e613]:
+              - link "Telecom, Media & Entertainment" [ref=f3e614] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/telecom/
+            - listitem [ref=f3e616]:
+              - link "Manufacturing" [ref=f3e617] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/manufacturing/
+            - listitem [ref=f3e619]:
+              - link "Healthcare" [ref=f3e620] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/healthcare/
+          - list [ref=f3e624]:
+            - listitem [ref=f3e625]:
+              - link "About Us" [ref=f3e626] [cursor=pointer]:
+                - /url: /company
+            - listitem [ref=f3e628]:
+              - link "Life@3i" [ref=f3e629] [cursor=pointer]:
+                - /url: /life-at-3i
+            - listitem [ref=f3e631]:
+              - link "Investors" [ref=f3e632] [cursor=pointer]:
+                - /url: /Investors/
+            - listitem [ref=f3e634]:
+              - link "Perspectives" [ref=f3e635] [cursor=pointer]:
+                - /url: /Perspectives/
+            - listitem [ref=f3e637]:
+              - link "Contact Us" [ref=f3e638] [cursor=pointer]:
+                - /url: /Contact-us/
+          - generic [ref=f3e640]:
+            - generic [ref=f3e642]:
+              - generic [aria-hidden] [ref=f3e645]: 
+              - generic [ref=f3e646]:
+                - heading "Business & Marketing Enquiries" [level=3] [ref=f3e647]
+                - paragraph [ref=f3e648]:
+                  - link "marketing@3i-infotech.com" [ref=f3e649] [cursor=pointer]:
+                    - /url: mailto:marketing@3i-infotech.com
+            - generic [ref=f3e651]:
+              - generic [aria-hidden] [ref=f3e654]: 
+              - generic [ref=f3e655]:
+                - heading "Career Enquiries" [level=3] [ref=f3e656]
+                - paragraph [ref=f3e657]:
+                  - link "careers@3i-infotech.com" [ref=f3e658] [cursor=pointer]:
+                    - /url: mailto:careers@3i-infotech.com
+            - generic [ref=f3e660]:
+              - generic [aria-hidden] [ref=f3e663]: 
+              - generic [ref=f3e664]:
+                - heading "Alumni Enquiries" [level=3] [ref=f3e665]
+                - paragraph [ref=f3e666]:
+                  - link "alumni@3i-infotech.com" [ref=f3e667] [cursor=pointer]:
+                    - /url: mailto:alumni@3i-infotech.com
+        - generic [ref=f3e668]:
+          - generic [ref=f3e669]: ©2026 3i Infotech Limited. All Rights Reserved.
+          - list [ref=f3e672]:
+            - listitem [ref=f3e673]:
+              - link "Contact" [ref=f3e674] [cursor=pointer]:
+                - /url: /contact-us/
+            - listitem [ref=f3e676]:
+              - link "Privacy Policy" [ref=f3e677] [cursor=pointer]:
+                - /url: /privacy-policy/
+            - listitem [ref=f3e679]:
+              - link "Location" [ref=f3e680] [cursor=pointer]:
+                - /url: /company/#footprint
+            - listitem [ref=f3e682]:
+              - link "Site Map" [ref=f3e683] [cursor=pointer]:
+                - /url: /sitemap.xml
+            - listitem [ref=f3e685]:
+              - link "Grievance Redressal" [ref=f3e686] [cursor=pointer]:
+                - /url: /grievance-redressal/
+          - list [ref=f3e689]:
+            - listitem [ref=f3e690]:
+              - link "Linkedin" [ref=f3e691] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/3i-infotech/?originalSubdomain=in
+            - listitem [ref=f3e695]:
+              - link "X-twitter" [ref=f3e696] [cursor=pointer]:
+                - /url: https://x.com/3iInfotech
+            - listitem [ref=f3e700]:
+              - link "Youtube" [ref=f3e701] [cursor=pointer]:
+                - /url: https://www.youtube.com/@3iinfotechltd
+            - listitem [ref=f3e705]:
+              - link "Instagram" [ref=f3e706] [cursor=pointer]:
+                - /url: https://www.instagram.com/3iinfotechofficial/
+  - generic:
+    - generic [ref=f3e711] [cursor=pointer]
+    - generic [ref=f3e713]:
+      - generic [ref=f3e714] [cursor=pointer]
+      - generic [ref=f3e715]: Shopping Basket
+    - text: 
+  - generic [ref=f3e717] [cursor=pointer]
+  - generic [ref=f3e720]: desktop

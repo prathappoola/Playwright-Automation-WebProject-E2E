@@ -1,0 +1,1251 @@
+- generic [ref=f3e1]:
+  - link "Talk to an Expert" [ref=f3e2] [cursor=pointer]:
+    - /url: "#contact-us"
+  - generic [ref=f3e3]:
+    - banner [ref=f3e4]:
+      - generic [ref=f3e8]:
+        - generic [ref=f3e11]:
+          - link [ref=f3e12] [cursor=pointer]:
+            - /url: https://test.3i-infotech.com/
+            - img "3i-Infotech-Logo.png" [ref=f3e13]
+          - heading [level=3] [ref=f3e14]:
+            - link "3i Infotech" [ref=f3e15] [cursor=pointer]:
+              - /url: https://test.3i-infotech.com/
+        - generic [ref=f3e19]:
+          - text:  
+          - navigation [ref=f3e21]:
+            - list [ref=f3e22]:
+              - listitem [ref=f3e23]:
+                - link "Industries" [ref=f3e24] [cursor=pointer]:
+                  - /url: https://test.3i-infotech.com/
+                  - text: Industries 
+              - listitem [ref=f3e25]:
+                - link "Offerings" [ref=f3e26] [cursor=pointer]:
+                  - /url: "#"
+                  - text: Offerings 
+              - listitem [ref=f3e27]:
+                - link "Investors" [ref=f3e28] [cursor=pointer]:
+                  - /url: https://test.3i-infotech.com/investors/
+              - listitem [ref=f3e29]:
+                - link "Company" [ref=f3e30] [cursor=pointer]:
+                  - /url: "#"
+                  - text: Company 
+              - listitem [ref=f3e31]:
+                - link "Perspectives" [ref=f3e32] [cursor=pointer]:
+                  - /url: https://test.3i-infotech.com/perspectives/
+              - listitem [ref=f3e33]:
+                - link "Contact Us" [ref=f3e34] [cursor=pointer]:
+                  - /url: https://test.3i-infotech.com/contact-us/
+              - listitem [ref=f3e35]:
+                - link [ref=f3e36] [cursor=pointer]:
+                  - /url: "#"
+                  - text: 
+          - generic:
+            - navigation:    
+        - generic [ref=f3e40]:
+          - button [ref=f3e42] [cursor=pointer]
+          - text: 
+    - generic [ref=f3e44]:
+      - heading "Annual Report" [level=2] [ref=f3e51]
+      - generic [ref=f3e53]:
+        - generic [ref=f3e57]:
+          - generic [ref=f3e59]:
+            - button [active] [ref=f3e60] [cursor=pointer]:
+              - text: Select Year...
+              - img "arrow-down" [ref=f3e62]
+            - list [ref=f3e1307]:
+              - listitem [ref=f3e1308] [cursor=pointer]: FY25-26
+              - listitem [ref=f3e1309] [cursor=pointer]: FY24-25
+              - listitem [ref=f3e1310] [cursor=pointer]: FY23-24
+              - listitem [ref=f3e1311] [cursor=pointer]: FY22-23
+              - listitem [ref=f3e1312] [cursor=pointer]: FY21-22
+              - listitem [ref=f3e1313] [cursor=pointer]: FY20-21
+              - listitem [ref=f3e1314] [cursor=pointer]: FY19-20
+              - listitem [ref=f3e1315] [cursor=pointer]: FY18-19
+              - listitem [ref=f3e1316] [cursor=pointer]: FY17-18
+              - listitem [ref=f3e1317] [cursor=pointer]: FY16-17
+              - listitem [ref=f3e1318] [cursor=pointer]: FY15-16
+              - listitem [ref=f3e1319] [cursor=pointer]: FY14-15
+              - listitem [ref=f3e1320] [cursor=pointer]: FY13-14
+              - listitem [ref=f3e1321] [cursor=pointer]: FY12-13
+              - listitem [ref=f3e1322] [cursor=pointer]: FY11-12
+              - listitem [ref=f3e1323] [cursor=pointer]: FY10-11
+              - listitem [ref=f3e1324] [cursor=pointer]: FY09-10
+              - listitem [ref=f3e1325] [cursor=pointer]: FY08-09
+              - listitem [ref=f3e1326] [cursor=pointer]: FY07-08
+              - listitem [ref=f3e1327] [cursor=pointer]: FY06-07
+              - listitem [ref=f3e1328] [cursor=pointer]: FY05-06
+          - generic [ref=f3e63]:
+            - generic [ref=f3e64]:
+              - heading "FY25-26" [level=4] [ref=f3e65]
+              - paragraph [ref=f3e66]:
+                - paragraph [ref=f3e67]:
+                  - link "Annual Report FY 2025 – 2026" [ref=f3e68] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2026/07/3i-Infotech_AR_2025-26.pdf
+                - paragraph [ref=f3e70]:
+                  - link "Addendum to Notice of 33 rd AGM" [ref=f3e71] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2026/08/Addendum-to-Notice-of-33rd-AGM.pdf
+                    - text: Addendum to Notice of 33
+                    - superscript: rd
+                    - text: AGM
+                - paragraph [ref=f3e73]:
+                  - link "Notice of 33 rd AGM" [ref=f3e74] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2026/08/Notice-of-33rd-AGM.pdf
+                    - text: Notice of 33
+                    - superscript: rd
+                    - text: AGM
+                - paragraph [ref=f3e76]:
+                  - link "Letter to the Shareholders - Weblink of the Annual Report for FY 2025-26" [ref=f3e77] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2026/08/Letter-to-the-Shareholders-weblink-of-the-Annual-Report-for-FY-2025-26.pdf
+                - paragraph [ref=f3e79]:
+                  - link "Business Responsibility and Sustainability Report – FY 2025-26" [ref=f3e80] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2026/08/BRSR-2025-26.pdf
+                - heading "Subsidiaries financial statement for the period ended March 31, 2026" [level=3] [ref=f3e82]
+                - heading "Indian Subsidiaries" [level=3] [ref=f3e83]
+                - paragraph [ref=f3e84]:
+                  - link "Nure Mediatech Limited" [ref=f3e85] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2026/10/Nure-Mediatech-Limited.pdf
+                - paragraph [ref=f3e87]:
+                  - link "Nure Bharat Network Limited" [ref=f3e88] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2026/09/Nure-bharat-Network-Limited.pdf
+                - paragraph [ref=f3e90]:
+                  - link "Nure Campuslabs Pvt Ltd" [ref=f3e91] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2026/09/Nure-Campuslabs-Pvt-Ltd.pdf
+                - paragraph [ref=f3e93]:
+                  - link "Nure FutureTech Pvt Ltd" [ref=f3e94] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2026/09/Nure-FutureTech-Pvt-Ltd.pdf
+                - paragraph [ref=f3e96]:
+                  - link "Professional Access Software Development Pvt Ltd" [ref=f3e97] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2026/09/professional-access-software-development-pvt-ltd.pdf
+                - paragraph [ref=f3e99]:
+                  - link "3i Infotech Consultancy Services Limited" [ref=f3e100] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2026/08/3i-Infotech-Consultancy-Services-Limited.pdf
+                - paragraph [ref=f3e102]:
+                  - link "3i Infotech Digital BPS Limited" [ref=f3e103] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2026/08/3i-Infotech-Digital-BPS-Limited.pdf
+                - paragraph [ref=f3e105]:
+                  - link "Nure Edgetech Private Limited" [ref=f3e106] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2026/08/Nure-Edgetech-Private-Limited.pdf
+                - paragraph [ref=f3e108]:
+                  - link "Versares Digital Technology Services Private Limited" [ref=f3e109] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2026/08/Versares-Digital-Technology.pdf
+                - heading "Foreign Subsidiaries" [level=3] [ref=f3e111]
+                - paragraph [ref=f3e112]:
+                  - link "3i Infotech Asia Pacific Ltd" [ref=f3e113] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2026/10/Management-Certified-Financials-_3i-Infotech-Asia-Pacific-Ltd_FY-25-26.pdf
+                - paragraph [ref=f3e115]:
+                  - link "3i Infotech South Africa (PTY) LTD" [ref=f3e116] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2026/10/Signed-Financial-South-Africa-Mar-26.pdf
+                - paragraph [ref=f3e118]:
+                  - link "Nure Digital SDN BHD" [ref=f3e119] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2026/10/Financials_Nure-Digital-SDN-BHD_FY-25-26_Final.pdf
+                - paragraph [ref=f3e121]:
+                  - link "3i Infotech SDN BHD" [ref=f3e122] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2026/10/3i-Infotech-Sdn-BHD_FY-25-26.pdf
+                - paragraph [ref=f3e124]:
+                  - link "3i Infotech (Canada) Inc." [ref=f3e125] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2026/10/3I-Infotech-Canada-Inc.-2026-03-31-Approved-signed.pdf
+                - paragraph [ref=f3e127]:
+                  - link "3i Infotech (Africa) Limited" [ref=f3e128] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2026/10/3I-INFOTECH-AFRICA-LIMITED-Signed.pdf
+                - paragraph [ref=f3e130]:
+                  - link "3i Infotech Saudi Arabia Co." [ref=f3e131] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2026/09/3i-Infotech-Saudi-Arabia-Co-31-Mar-2026.pdf
+                - paragraph [ref=f3e133]:
+                  - link "3i Infotech (Cyprus) Limited" [ref=f3e134] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2026/09/3i-Infotech-Cyprus-Limited.pdf
+                - paragraph [ref=f3e136]:
+                  - link "3i Infotech (UK) Limited" [ref=f3e137] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2026/08/UK_Fianancials_FY-25-26.pdf
+                - paragraph [ref=f3e139]:
+                  - link "3i Infotech Inc" [ref=f3e140] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2026/08/3i-Infotech-Inc.pdf
+                - paragraph [ref=f3e142]:
+                  - link "3i Infotech (Middle East) FZ LLC" [ref=f3e143] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2026/08/3i-INFOTECH-MIDDLE-EAST-FZ-LLC.pdf
+                - paragraph [ref=f3e145]:
+                  - link "3i Infotech Netherlands B. V." [ref=f3e146] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2026/08/3i-Infotech-Netherlands-B.-V.pdf
+                - paragraph [ref=f3e148]:
+                  - link "3i Infotech Holding Private Limited" [ref=f3e149] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2026/10/3i-Infotech-Holding-Private-Limited-Revised.pdf
+                - paragraph [ref=f3e151]:
+                  - link "3i Infotech (Thailand) Limited" [ref=f3e152] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2026/08/3i-Infotech-Thailand-Ltd.pdf
+                - paragraph [ref=f3e154]:
+                  - link "3i Infotech Nigeria Limited" [ref=f3e155] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2026/08/3I-INFOTECH-NIGERIA-LIMITED-2026-Annual-Financial-Statement-Fully-Signed.pdf
+                - paragraph [ref=f3e157]:
+                  - link "3i Infotech Software Solutions LLC" [ref=f3e158] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2026/08/3i-Infotech-Software-solutions-L.L.C_.pdf
+            - generic [ref=f3e160]:
+              - heading "FY24-25" [level=4] [ref=f3e161]
+              - paragraph [ref=f3e162]:
+                - paragraph [ref=f3e163]:
+                  - link "Annual Report FY 2024 – 2025" [ref=f3e164] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/08/3i-Infotech_AR_2024-25.pdf
+                - paragraph [ref=f3e166]:
+                  - link "Business Responsibility and Sustainability Report – FY 2024-25" [ref=f3e167] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/08/BRSR_2024-25.pdf
+                - paragraph [ref=f3e169]:
+                  - link "Web-link of the Annual Report for the Financial Year 2024-25" [ref=f3e170] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/08/Web-link-of-the-Annual-Report-for-the-Financial-Year-2024-25.pdf
+                - heading "Subsidiaries financial statement for the period ended March 31, 2025" [level=3] [ref=f3e172]
+                - paragraph [ref=f3e173]:
+                  - link "3i Infotech Netherland B. V." [ref=f3e174] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2026/01/3I-Infotech-Netherlands-BV_Annual-accounts-2024-25-signed-1.pdf
+                - paragraph [ref=f3e176]:
+                  - link "3i Infotech (South Africa)(Pty)Ltd." [ref=f3e177] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2026/01/2025-AFS-3I-Infotech-South-Africa-Pty-Ltd.pdf
+                - paragraph [ref=f3e179]:
+                  - link "Nure Digital Sdn Bhd" [ref=f3e180] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/11/Audited-Financial-Statements-FYE-31.03.2025_Nure-Digital-Sdn-Bhd.pdf
+                - paragraph [ref=f3e182]:
+                  - link "3i Infotech Canada Inc." [ref=f3e183] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/10/3I-Infotech-Canada-Inc.-2025-03-31.pdf
+                - paragraph [ref=f3e185]:
+                  - link "Professional Access Software Development Private Limited" [ref=f3e186] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/10/Professional-Access-Software-Development-Private-Limited.pdf
+                - paragraph [ref=f3e188]:
+                  - link "3i Infotech Saudi Arabia Co. (Foreign Limited)" [ref=f3e189] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2026/01/3i-Infotech-Saudi-Arabia-Co.-Foreign-Limited.pdf
+                - paragraph [ref=f3e191]:
+                  - link "3i Infotech Consultancy Limited" [ref=f3e192] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/09/3i-Infotech-Consultancy-services-Ltd.pdf
+                - paragraph [ref=f3e194]:
+                  - link "3i Infotech Digital BPS Limited" [ref=f3e195] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/09/3i-Infotech-Digital-BPS-Limited.pdf
+                - paragraph [ref=f3e197]:
+                  - link "3i Infotech Holdings Private Limited" [ref=f3e198] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/10/Audited-Financial-statement_3i-Infotech-Holding_31032025.pdf
+                - paragraph [ref=f3e200]:
+                  - link "3i Infotech Nigeria Limited" [ref=f3e201] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/09/Financial-Statement-_-3i-Infotech-Nigeria.pdf
+                - paragraph [ref=f3e203]:
+                  - link "NuRe Campus" [ref=f3e204] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/08/Nure-Campus.pdf
+                - paragraph [ref=f3e206]:
+                  - link "NuRe Bharat Network Limited" [ref=f3e207] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/08/Nure-Bharat-Network-Limited.pdf
+                - paragraph [ref=f3e209]:
+                  - link "NuRe Edgetech Private Limited" [ref=f3e210] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/08/Nure-Edgetech-Private-Limited.pdf
+                - paragraph [ref=f3e212]:
+                  - link "NuRe Futuretech Private Limited" [ref=f3e213] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/08/Nure-Futuretech-Private-Limited.pdf
+                - paragraph [ref=f3e215]:
+                  - link "NuRe Mediatech Ltd" [ref=f3e216] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/08/Nure-Mediatech-Ltd.pdf
+                - paragraph [ref=f3e218]:
+                  - link "Versares Digital Technology" [ref=f3e219] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/08/Versares-Digital-Technology.pdf
+                - paragraph [ref=f3e221]:
+                  - link "3i Infotech (Cyprus) Limited" [ref=f3e222] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/08/3i-Infotech-Cyprus-Limited.pdf
+                - paragraph [ref=f3e224]:
+                  - link "3i Infotech (Middle East) FZ LLC" [ref=f3e225] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/08/3i-Infotech-Middle-East-FZ-LLC.pdf
+                - paragraph [ref=f3e227]:
+                  - link "3i Infotech (Thailand) Limited" [ref=f3e228] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/08/3i-Infotech-Thailand-Limited.pdf
+                - paragraph [ref=f3e230]:
+                  - link "3i Infotech Inc" [ref=f3e231] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/11/3i-Infotech-Inc.pdf
+                - paragraph [ref=f3e233]:
+                  - link "3i Infotech SDN BHD" [ref=f3e234] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/08/3i-Infotech-SDN-BHD.pdf
+                - paragraph [ref=f3e236]:
+                  - link "3i Infotech Software Solutions LLC" [ref=f3e237] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/08/3i-Infotech-Software-Solutions-LLC.pdf
+                - paragraph [ref=f3e239]:
+                  - link "3i Infotech Africa Ltd" [ref=f3e240] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/08/3i-Infotech-Africa-Ltd.pdf
+            - generic [ref=f3e242]:
+              - heading "FY23-24" [level=4] [ref=f3e243]
+              - paragraph [ref=f3e244]:
+                - paragraph [ref=f3e245]:
+                  - link "Annual Report FY 2023 – 2024" [ref=f3e246] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2024/09/3i-Infotech_AR_2023-24.pdf
+                - heading "Subsidiary Financial Statements for the period ended on March 31, 2024" [level=3] [ref=f3e248]
+                - paragraph [ref=f3e249]:
+                  - link "3i Infotech Netherlands B. V." [ref=f3e250] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/10/3i-Infotech-Netherlands-B.-V.pdf
+                - paragraph [ref=f3e252]:
+                  - link "3i Infotech Asia Pacific Pte Ltd." [ref=f3e253] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/05/Audited-financial-statement-3i-Infotech-Asia-Pacific-PL-1.pdf
+                - paragraph [ref=f3e255]:
+                  - link "3i Infotech (Cyprus) Limited" [ref=f3e256] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/05/Financial-Statements_3i-Infotech-Cyprus_31.03.2024.pdf
+                - paragraph [ref=f3e258]:
+                  - link "Nure Futuretech Private Limited" [ref=f3e259] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/02/Nure-futuretech-Signed-financials-2023-24.pdf
+                - paragraph [ref=f3e261]:
+                  - link "NuRe Campus" [ref=f3e262] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/02/Nure-campus-signed-financials-2023-24.pdf
+                - paragraph [ref=f3e264]:
+                  - link "Versares Digital Technology" [ref=f3e265] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/02/Versares-digital-technology-signed-financials-with-audit-report.pdf
+                - paragraph [ref=f3e267]:
+                  - link "3i Infotech SDN BHD" [ref=f3e268] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/01/3i-Infotech-Sdn.-Bhd.-YE-31.3.2024.pdf
+                - paragraph [ref=f3e270]:
+                  - link "NuRe Bharat Network Limited" [ref=f3e271] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/01/NuRe-Bharat-Network-Limited-March-31-2024-1.pdf
+                - paragraph [ref=f3e273]:
+                  - link "3i Infotech Digital BPS Limited" [ref=f3e274] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/01/3i-Infotech-Digital-BPS-Limited-March-31-2024-1.pdf
+                - paragraph [ref=f3e276]:
+                  - link "3i Infotech Consultancy Services Limited" [ref=f3e277] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/01/3i-Infotech-Consultancy-Services-Limited-March-31-2024-1.pdf
+                - paragraph [ref=f3e279]:
+                  - link "NuRe Edgetech Private Limited" [ref=f3e280] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/01/NuRe-Edgetech-Private-Limited-March-31-2024-1.pdf
+                - paragraph [ref=f3e282]:
+                  - link "NuRe Mediatech Ltd" [ref=f3e283] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/01/NuRe-Mediatech-Ltd-March-31-2024-1.pdf
+                - paragraph [ref=f3e285]:
+                  - link "Professional Access Software Development Private Limited" [ref=f3e286] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/01/Professional-Access-Software-Development-Private-Limited-March-31-2024-1.pdf
+                - paragraph [ref=f3e288]:
+                  - link "3i Infotech Holdings Private Limited, Mauritius" [ref=f3e289] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/01/Financial-statement_3i-infotech-Holdings-Private-Limited_31.03.2024.pdf
+                - paragraph [ref=f3e291]:
+                  - link "3i Infotech Africa Limited" [ref=f3e292] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/01/Financial-Statement_3i-Infotech-Africa_31.03.2024.pdf
+                - paragraph [ref=f3e294]:
+                  - link "3i Infotech (South Africa) Pty. Ltd" [ref=f3e295] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/01/Financial-Statement_3i-Infotech-South-Africa_31.03.2024.pdf
+                - paragraph [ref=f3e297]:
+                  - link "Nure Digital SDN BHD" [ref=f3e298] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2024/11/Final-Audit-Report-for-the-financial-year-ended-31-March-2024.pdf
+                - paragraph [ref=f3e300]:
+                  - link "3i Infotech Software Solution LLC" [ref=f3e301] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2024/10/Audited-Financial-Statement_Software-solution_31.03.2024.pdf
+                - paragraph [ref=f3e303]:
+                  - link "3i Infotech (Middle East) FZ LLC" [ref=f3e304] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2024/10/Audited-Financial-Statement_Middle-East_31.03.2024.pdf
+                - paragraph [ref=f3e306]:
+                  - link "3i Infotech (Thailand) Limited" [ref=f3e307] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2024/10/Audited-Financial-Statement_3i-infotech-Thailand_31.03.2024.pdf
+                - paragraph [ref=f3e309]:
+                  - link "3i Infotech Inc." [ref=f3e310] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2024/10/Audited-Financial-Statement_3i-Infotech-Inc_31.03.2024.pdf
+                - paragraph [ref=f3e312]:
+                  - link "3i Infotech Saudi Arabia LLC" [ref=f3e313] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2024/10/Audited-Financial-Statement_3i-Infotech-Saudi-Arabia_31.03.2024.pdf
+                - paragraph [ref=f3e315]:
+                  - link "3i Infotech Nigeria Limited" [ref=f3e316] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/01/Financial-Statements_3i-Infotech-Nigeria_31.03.2024.pdf
+                - paragraph [ref=f3e318]:
+                  - link "3i Infotech (Canada) Inc." [ref=f3e319] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2024/10/Audited-Financial-Statement_3i-Infotech-Canada_31.03.2024.pdf
+                - paragraph [ref=f3e321]:
+                  - link "3i Infotech Digital BPS Limited" [ref=f3e322] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2024/10/Audited-Financial-Statement_3i-Infotech-BPS_31.03.2024.pdf
+            - generic [ref=f3e324]:
+              - heading "FY22-23" [level=4] [ref=f3e325]
+              - paragraph [ref=f3e326]:
+                - paragraph [ref=f3e327]:
+                  - link "Revised Annual Report FY 2022-2023" [ref=f3e328] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2024/03/3i-Infotech_2023_AR_Cover-to-cover_V4_Hyperlinked.pdf
+                - paragraph [ref=f3e330]:
+                  - link "Annual Report FY 2022 – 2023" [ref=f3e331] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2023/09/3i-Infotech_2023_AR.pdf
+                - heading "Subsidiary Financial Statements for the period ended on March 31, 2023" [level=3] [ref=f3e333]
+                - paragraph [ref=f3e334]:
+                  - link "3i Infotech (Western Europe) Holding Limited" [ref=f3e335] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/05/3I-INFOTECH-WESTERN-EUROPE-HOLDINGS-LIMITED_FullAccounts_2023-signed.pdf
+                - paragraph [ref=f3e337]:
+                  - link "3i Infotech (Western Europe) Groups Limited" [ref=f3e338] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/05/3I-INFOTECH-WESTERN-EUROPE-GROUP-LIMITED_FullAccounts_2023-2-signed.pdf
+                - paragraph [ref=f3e340]:
+                  - link "Rhyme Stystems Limited" [ref=f3e341] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/05/RHYME-SYSTEMS-LIMITED_FullAccounts_2023-signed.pdf
+                - paragraph [ref=f3e343]:
+                  - link "3i infotech (Cyprus) Limited" [ref=f3e344] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2024/07/Financial-Statements_31.03.2023_3i-Infotech-Cyprus.pdf
+                - paragraph [ref=f3e346]:
+                  - link "3i Infotech Africa Limited" [ref=f3e347] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2024/05/Financial-Statements_3i-infotech-Africa-Limited_31.03.2023.pdf
+                - paragraph [ref=f3e349]:
+                  - link "Nure Digital SDN BHD" [ref=f3e350] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2024/05/Financial-Statements_Nure-Digital-SDN-BHD_31.03.2023.pdf
+                - paragraph [ref=f3e352]:
+                  - link "3i Infotech Holdings Private Limited" [ref=f3e353] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2024/05/Financial-statement_3i-infotech-Holdings-Private-Limited_31.03.2023.pdf
+                - paragraph [ref=f3e355]:
+                  - link "3i Infotech (UK) Limited" [ref=f3e356] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2024/07/Financial-Statement_3i-UK_-31-March-23.pdf
+                - paragraph [ref=f3e358]:
+                  - link "3i Infotech SDN BHD" [ref=f3e359] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2024/05/3i-Infotech-Sdn-Bhd.-YE-31.3.2023.pdf
+                - paragraph [ref=f3e361]:
+                  - link "3i Infotech Nigeria Limited" [ref=f3e362] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2024/01/3I-INFOTECH-NIGERIA-LIMITED-2023-Annual-Financial-Statement05.10.23.pdf
+                - paragraph [ref=f3e364]:
+                  - link "3i Infotech (South Africa) Pty Ltd" [ref=f3e365] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2023/12/3i-Infotech-South-Africa-Pty-Ltd-2023-AFS.pdf
+                - paragraph [ref=f3e367]:
+                  - link "3i Infotech Consultancy Services Limited" [ref=f3e368] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2023/10/Signed-Financials.pdf
+                - paragraph [ref=f3e370]:
+                  - link "3i Infotech Digital BPS Limited" [ref=f3e371] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2023/10/3i-Infotech-Digital-BPS-Signed-FS-2022-2023.pdf
+                - paragraph [ref=f3e373]:
+                  - link "3i Infotech Saudi Arabia LLC" [ref=f3e374] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2023/09/Finacial-Statement_3i-Infotech-Saudi-Arabia-LLC_31.03.2023.pdf
+                - paragraph [ref=f3e376]:
+                  - link "3i Infotech Software Solutions LLC" [ref=f3e377] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2023/09/Financial-Statements_3i-Infotech-Software-Solution-LLC_31.03.2023.pdf
+                - paragraph [ref=f3e379]:
+                  - link "3i Infotech (Middle East) FZ LLC" [ref=f3e380] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2023/09/Financial-Statements_3i-Infotech-Middle-East-FZ-LLC_31.03.2023.pdf
+                - paragraph [ref=f3e382]:
+                  - link "3i Infotech Inc." [ref=f3e383] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2023/09/Financial-Statements_3i-Infotech-Inc._31.03.2023.pdf
+                - paragraph [ref=f3e385]:
+                  - link "3i Infotech (Thailand) Limited" [ref=f3e386] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2023/09/Financial-Statement_3i-Infotech-Thailand-Limited_31.03.2023.pdf
+                - paragraph [ref=f3e388]:
+                  - link "3i Infotech Asia Pacific Pte Ltd." [ref=f3e389] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2023/09/Financial-Statements_3i-Infotech-Asia-Pacific-Pte.-Ltd._31.03.2023.pdf
+            - generic [ref=f3e391]:
+              - heading "FY21-22" [level=4] [ref=f3e392]
+              - paragraph [ref=f3e393]:
+                - paragraph [ref=f3e394]:
+                  - link "Annual Report FY 2021 – 2022" [ref=f3e395] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2022/09/3i-Infotech-AR-22.pdf
+                - heading "Subsidiary Financial Statements for the period ended on March 31, 2022" [level=3] [ref=f3e397]
+                - paragraph [ref=f3e398]:
+                  - link "3i Infotech Holdings Private Limited" [ref=f3e399] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2023/09/3i-Infotech-signed-AFS.pdf
+                - paragraph [ref=f3e401]:
+                  - link "3i Infotech (Thailand) Limited" [ref=f3e402] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2023/06/THAILAND-31-Mar-2022.pdf
+                - paragraph [ref=f3e404]:
+                  - link "3i Infotech (UK) Limited" [ref=f3e405] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2025/05/3i-UK-Annual-Accounts-2021-22.pdf
+                - paragraph [ref=f3e407]:
+                  - link "3i Infotech (Cyprus) Limited" [ref=f3e408] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2023/01/3i-Infotech-Cyprus-Limited-31-03-2022.pdf
+                - paragraph [ref=f3e410]:
+                  - link "Professional Access Software Development Private Limited" [ref=f3e411] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2022/12/3i-infotech-pa-india-signed-fs-2021-2022.pdf
+                - paragraph [ref=f3e413]:
+                  - link "3i Infotech Consultancy Services Limited" [ref=f3e414] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2022/12/3i-infotech-csl-financials-31-mar-2022.pdf
+                - paragraph [ref=f3e416]:
+                  - link "3i Infotech Digital BPS Limited" [ref=f3e417] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2022/12/3i-infotech-bpo-financials-31-march-2022.pdf
+                - paragraph [ref=f3e419]:
+                  - link "3i-Infotech (Canada) Inc" [ref=f3e420] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2022/10/3i-Infotech-Canada-Inc.pdf
+                - paragraph [ref=f3e422]:
+                  - link "3i Infotech (Thailand) Limited" [ref=f3e423] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2022/10/3i-Infotech-Thailand-Limited.pdf
+                - paragraph [ref=f3e425]:
+                  - link "3i Infotech SDN BHD" [ref=f3e426] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2022/11/3iInfotech-SDN-BHD.pdf
+                - paragraph [ref=f3e428]:
+                  - link "3i Infotech (Africa) Limited" [ref=f3e429] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2022/10/3i-Infotech-Africa-Limited.pdf
+                - paragraph [ref=f3e431]:
+                  - link "3i Infotech Saudi Arabia LLC" [ref=f3e432] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2022/05/3i-Infotech-Saudi-Arabia-LLC-22.pdf
+                - paragraph [ref=f3e434]:
+                  - link "3i Infotech Asia Pacific Pte Ltd" [ref=f3e435] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2022/05/3i-Infotech-Asia-Pacific-Pte-Ltd-22.pdf
+                - paragraph [ref=f3e437]:
+                  - link "3i Infotech (Middle East) FZ LLC" [ref=f3e438] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2022/05/3i-Infotech-Middle-East-FZ-LLC.pdf
+                - paragraph [ref=f3e440]:
+                  - link "3i Infotech Software Solutions LLC" [ref=f3e441] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2022/05/3i-Infotech-Software-Solutions-LLC.pdf
+                - paragraph [ref=f3e443]:
+                  - link "3i Infotech (South Africa) (Pty) Limited" [ref=f3e444] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2022/05/3i-Infotech-South-Africa-Pty-Limited.pdf
+                - paragraph [ref=f3e446]:
+                  - link "3i Infotech Nigeria Limited" [ref=f3e447] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2022/08/3i-Infotech-Nigeria-Limited.pdf
+                - paragraph [ref=f3e449]:
+                  - link "3i Infotech Inc." [ref=f3e450] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2022/05/3i-Infotech-Inc.pdf
+            - generic [ref=f3e452]:
+              - heading "FY20-21" [level=4] [ref=f3e453]
+              - paragraph [ref=f3e454]:
+                - paragraph [ref=f3e455]:
+                  - link "Annual Report FY 2020 – 2021" [ref=f3e456] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2021/11/3-INFO-TECH-AR-2020-21-3.pdf
+                - heading "Annual Return" [level=3] [ref=f3e458]
+                - paragraph [ref=f3e459]:
+                  - link "Form_MGT_7 FY 20-21" [ref=f3e460] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2021/12/Form_MGT_7-FY-20-21.pdf
+                - heading "Subsidiary Financial Statements for the period ended on March 31, 2021" [level=3] [ref=f3e462]
+                - paragraph [ref=f3e463]:
+                  - link "3i Infotech (Africa) Limited" [ref=f3e464] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2022/05/3i-Infotech-Africa-Limited-22.pdf
+                - paragraph [ref=f3e466]:
+                  - link "3i Infotech (UK) Limited" [ref=f3e467] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2022/05/3i-Infotech-UK-Limited.pdf
+                - paragraph [ref=f3e469]:
+                  - link "3i Infotech Nigeria Limited" [ref=f3e470] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2022/05/3i-Infotech-Nigeria-Limited.pdf
+                - paragraph [ref=f3e472]:
+                  - link "3i Infotech Asia Pacific Pte. Ltd" [ref=f3e473] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2021/11/3i-Infotech-Asia-Pacific-Pte-Ltd-3.pdf
+                - paragraph [ref=f3e475]:
+                  - link "3i Infotech (Thailand) Limited" [ref=f3e476] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2021/11/3i-Infotech-Thailand-Limited-3.pdf
+                - paragraph [ref=f3e478]:
+                  - link "3i Infotech SDN BHD" [ref=f3e479] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2021/11/3i-Infotech-SDN-BHD-2.pdf
+                - paragraph [ref=f3e481]:
+                  - link "3i Infotech Services SDN BHD" [ref=f3e482] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2021/11/3i-Infotech-Services-SDN-BHD-1.pdf
+                - paragraph [ref=f3e484]:
+                  - link "3i Infotech Holdings Private Limited" [ref=f3e485] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2021/11/3i-Infotech-Holdings-Private-Limited-3.pdf
+                - paragraph [ref=f3e487]:
+                  - link "3i Infotech Inc." [ref=f3e488] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2021/11/3i-Infotech-Inc.-2.pdf
+                - paragraph [ref=f3e490]:
+                  - link "3i Infotech (Cyprus) Limited (formerly known as Black-Barret Holdings Limited)" [ref=f3e491] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2021/11/3i-Infotech-Cyprus-Limited-formerly-known-as-Black-Barret-Holdings-Limited-3.pdf
+                - paragraph [ref=f3e493]:
+                  - link "3i Infotech Software Solutions LLC" [ref=f3e494] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2021/11/3i-Infotech-Software-Solutions-LLC-1.pdf
+                - paragraph [ref=f3e496]:
+                  - link "3i Infotech Saudi Arabia LLC" [ref=f3e497] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2021/11/3i-Infotech-Saudi-Arabia-LLC-2.pdf
+                - paragraph [ref=f3e499]:
+                  - link "3i Infotech (Middle East) FZ LLC" [ref=f3e500] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2021/11/3i-Infotech-Middle-East-FZ-LLC-3.pdf
+                - paragraph [ref=f3e502]:
+                  - link "3i Infotech BPO Limited" [ref=f3e503] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2021/11/3i-Infotech-BPO-Limited-3.pdf
+                - paragraph [ref=f3e505]:
+                  - link "3i Infotech Consultancy Services Limited" [ref=f3e506] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2021/11/3i-Infotech-Consultancy-Services-Limited-3.pdf
+                - paragraph [ref=f3e508]:
+                  - link "3i Infotech (South Africa) (Pty) Limited" [ref=f3e509] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2021/12/3i-Infotech-South-Africa-Pty-Limited.pdf
+                - paragraph [ref=f3e510]:
+                  - link "Professional Access Software Development Private Limited" [ref=f3e511] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2021/11/Professional-Access-Software-Development-Private-Limited-1.pdf
+            - generic [ref=f3e513]:
+              - heading "FY19-20" [level=4] [ref=f3e514]
+              - paragraph [ref=f3e515]:
+                - paragraph [ref=f3e516]:
+                  - link "Annual Report FY 2019 – 2020" [ref=f3e517] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2020/11/Annual_Report_2019-20.pdf
+                - heading "Subsidiary Financial Statements for the period ended on March 31, 2020" [level=3] [ref=f3e519]
+                - paragraph [ref=f3e520]:
+                  - link "3i Infotech Asia Pacific Pte. Limited" [ref=f3e521] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2020/11/3i-Infotech-Asia-Pacific-Pte-Limited.pdf
+                - paragraph [ref=f3e523]:
+                  - link "3i Infotech (Africa) Limited" [ref=f3e524] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2020/11/3i-Infotech-Africa-Limited.pdf
+                - paragraph [ref=f3e526]:
+                  - link "3i Infotech (Cyprus) Limited (formerly known as Black-Barret Holdings Limited)" [ref=f3e527] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2020/11/3i-Infotech-Cyprus-Limited-formerly-known-as-Black-Barret-Holdings-Limited.pdf
+                - paragraph [ref=f3e529]:
+                  - link "3i Infotech (Middle East) FZ LLC" [ref=f3e530] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2020/11/3i-Infotech-Middle-East-FZ-LLC.pdf
+                - paragraph [ref=f3e532]:
+                  - link "3i Infotech (South Africa) (Pty) Limited" [ref=f3e533] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2020/11/3i-Infotech-South-Africa-Pty-Limited.pdf
+                - paragraph [ref=f3e535]:
+                  - link "3i Infotech (Thailand) Limited" [ref=f3e536] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2020/11/3i-Infotech-Thailand-Limited.pdf
+                - paragraph [ref=f3e538]:
+                  - link "3i Infotech (UK) Limited" [ref=f3e539] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2020/11/3i-Infotech-UK-Limited.pdf
+                - paragraph [ref=f3e541]:
+                  - link "3i Infotech Saudi Arabia LLC" [ref=f3e542] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2020/11/3i-Infotech-Saudi-Arabia-LLC.pdf
+                - paragraph [ref=f3e544]:
+                  - link "3i Infotech Holdings Private Limited" [ref=f3e545] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2020/11/3i-Infotech-Holdings-Private-Limited.pdf
+                - paragraph [ref=f3e547]:
+                  - link "3i Infotech Inc." [ref=f3e548] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2020/11/3i-Infotech-Inc..pdf
+                - paragraph [ref=f3e550]:
+                  - link "3i Infotech Netherlands B.V." [ref=f3e551] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2020/11/3i-Infotech-Netherlands-B.V..pdf
+                - paragraph [ref=f3e553]:
+                  - link "3i Infotech Nigeria Limited" [ref=f3e554] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2020/11/3i-Infotech-Nigeria-Limited.pdf
+                - paragraph [ref=f3e556]:
+                  - link "3i Infotech Software Solutions LLC" [ref=f3e557] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2020/11/3i-Infotech-Software-Solutions-LLC.pdf
+                - paragraph [ref=f3e559]:
+                  - link "3i Infotech SDN BHD" [ref=f3e560] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2020/11/3i-Infotech-SDN-BHD.pdf
+                - paragraph [ref=f3e562]:
+                  - link "3i Infotech Services SDN BHD" [ref=f3e563] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2020/11/3i-Infotech-Services-SDN-BHD.pdf
+                - paragraph [ref=f3e565]:
+                  - link "Professional Access Software Development Private Limited" [ref=f3e566] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2020/12/Professional-Access-Software-Development-Private-Limited.pdf
+                - paragraph [ref=f3e568]:
+                  - link "3i Infotech BPO Limited" [ref=f3e569] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2020/12/3i-Infotech-BPO-Limited.pdf
+                - paragraph [ref=f3e571]:
+                  - link "3i Infotech Consultancy Services Limited" [ref=f3e572] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2020/12/3i-Infotech-Consultancy-Services-Limited.pdf
+            - generic [ref=f3e574]:
+              - heading "FY18-19" [level=4] [ref=f3e575]
+              - paragraph [ref=f3e576]:
+                - paragraph [ref=f3e577]:
+                  - link "Annual Report FY 2018 – 2019" [ref=f3e578] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2020/10/Annual-Report-FY-18-19.pdf
+                - heading "Subsidiary Financial Statements for the period ended on March 31, 2019" [level=3] [ref=f3e580]
+                - paragraph [ref=f3e581]:
+                  - link "3i Infotech BPO Limited" [ref=f3e582] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2020/10/3i-Infotech-BPO-Limited.pdf
+                - paragraph [ref=f3e584]:
+                  - link "3i Infotech Consultancy Services Limited" [ref=f3e585] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2020/10/3i-Infotech-Consultancy-Services-Limited.pdf
+                - paragraph [ref=f3e587]:
+                  - link "Professional Access Software Development Private Limited" [ref=f3e588] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2020/10/Professional-Access-Software-Development-Private-Limited.pdf
+                - paragraph [ref=f3e590]:
+                  - link "3i Infotech SDN BHD" [ref=f3e591] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2020/10/3i-Infotech-SDN-BHD.pdf
+                - paragraph [ref=f3e593]:
+                  - link "3i Infotech Asia Pacific Pte Limited" [ref=f3e594] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/2021/09/3i-Infotech-Asia-Pacific-Pte-Limited.pdf
+                - paragraph [ref=f3e596]:
+                  - link "3i Infotech Services SDN BHD" [ref=f3e597] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2020/10/3i-Infotech-Services-SDN-BHD.pdf
+                - paragraph [ref=f3e599]:
+                  - link "3i Infotech (Thailand) Limited" [ref=f3e600] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2020/10/3i-Infotech-Thailand-Limited.pdf
+                - paragraph [ref=f3e602]: 3i Infotech (Middle East) FZ LLC
+                - paragraph [ref=f3e603]:
+                  - link "3i Infotech Holdings Private Limited" [ref=f3e604] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2020/10/3i-Infotech-Holdings-Private-Limited.pdf
+                - paragraph [ref=f3e606]:
+                  - link "3i Infotech Software Solutions LLC" [ref=f3e607] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2020/10/3i-Infotech-Software-Solutions-LLC.pdf
+                - paragraph [ref=f3e609]:
+                  - link "3i Infotech (Cyprus) Limited (formerly known as Black-Barret Holdings Limited)" [ref=f3e610] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2020/10/3i-Infotech-Cyprus-Limited-formerly-known-as-Black-Barret-Holdings-Limited.pdf
+                - paragraph [ref=f3e612]:
+                  - link "3i Infotech (South Africa) (Pty) Limited" [ref=f3e613] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2020/10/3i-Infotech-South-Africa-Pty-Limited.pdf
+                - paragraph [ref=f3e615]:
+                  - link "Locuz Inc" [ref=f3e616] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2020/10/Locuz-Inc.pdf
+                - paragraph [ref=f3e618]:
+                  - link "Locuz Enterprise Solutions Limited" [ref=f3e619] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2020/10/Locuz-Enterprise-Solutions-Limited.pdf
+                - paragraph [ref=f3e621]:
+                  - link "3i Infotech Inc" [ref=f3e622] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2020/10/3i-Infotech-Inc.pdf
+                - paragraph [ref=f3e624]:
+                  - link "3i Infotech (Africa) Limited" [ref=f3e625] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2020/10/3i-Infotech-Africa-Limited.pdf
+                - paragraph [ref=f3e627]:
+                  - link "3i Infotech Saudi Arabia LLC" [ref=f3e628] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2020/10/3i-Infotech-Saudi-Arabia-LLC.pdf
+                - paragraph [ref=f3e630]:
+                  - link "3i Infotech (UK) Limited" [ref=f3e631] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2020/10/3i_Infotech_-UK_Limited.pdf
+            - generic [ref=f3e633]:
+              - heading "FY17-18" [level=4] [ref=f3e634]
+              - paragraph [ref=f3e635]:
+                - paragraph [ref=f3e636]:
+                  - link "Annual Report FY 2017 – 2018" [ref=f3e637] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2018/07/3I-Infotech-Ltd-Annual-Report-2018.pdf
+                - heading "Subsidiary Financial Statements for the period ended on March 31, 2018" [level=3] [ref=f3e639]
+                - paragraph [ref=f3e640]:
+                  - link "3i Infotech (Middle East) FZ LLC" [ref=f3e641] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2018/10/3i-Infotech-Middle-East-FZ-LLC.pdf
+                - paragraph [ref=f3e643]:
+                  - link "3i Infotech (Thailand) Limited" [ref=f3e644] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2018/10/3i-Infotech-Thailand-Limited.pdf
+                - paragraph [ref=f3e646]:
+                  - link "3i Infotech (UK) Limited" [ref=f3e647] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2018/10/3i-Infotech-UK-Limited.pdf
+                - paragraph [ref=f3e649]:
+                  - link "3i Infotech Africa Limited" [ref=f3e650] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2018/10/3i-Infotech-Africa-Limited.pdf
+                - paragraph [ref=f3e652]:
+                  - link "3i Infotech Asia Pacific Pte. Limited" [ref=f3e653] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2018/10/3i-Infotech-Asia-Pacific-Pte.-Limited.pdf
+                - paragraph [ref=f3e655]:
+                  - link "3i Infotech BPO Limited" [ref=f3e656] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2018/10/3i-Infotech-BPO-Limited.pdf
+                - paragraph [ref=f3e658]:
+                  - link "3i Infotech Consultany Services Limited" [ref=f3e659] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2018/10/3i-Infotech-Consultany-Services-Limited.pdf
+                - paragraph [ref=f3e661]:
+                  - link "3i Infotech Holdings Private Limited" [ref=f3e662] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2018/10/3i-Infotech-Holdings-Private-Limited.pdf
+                - paragraph [ref=f3e664]:
+                  - link "3i Infotech Inc" [ref=f3e665] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2018/10/3i-Infotech-Inc.pdf
+                - paragraph [ref=f3e667]:
+                  - link "3i Infotech Saudia Arabia LLC" [ref=f3e668] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2018/10/3i-Infotech-Saudia-Arabia-LLC.pdf
+                - paragraph [ref=f3e670]:
+                  - link "3i Infotech SDN BHD" [ref=f3e671] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2018/10/3i-Infotech-SDN-BHD.pdf
+                - paragraph [ref=f3e673]:
+                  - link "Black Barrets Holdings Limited" [ref=f3e674] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2018/10/Black-Barrets-Holdings-Limited.pdf
+                - paragraph [ref=f3e676]:
+                  - link "IFRS Cloud Solutions Limited" [ref=f3e677] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2018/10/IFRS-Cloud-Solutions-Limited.pdf
+            - generic [ref=f3e679]:
+              - heading "FY16-17" [level=4] [ref=f3e680]
+              - paragraph [ref=f3e681]:
+                - paragraph [ref=f3e682]:
+                  - link "Annual Report FY 2016 – 2017" [ref=f3e683] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2017/08/3i-Infotech_Annual_Report_2017.pdf
+                - heading "3i Infotech Limited" [level=3] [ref=f3e685]
+                - paragraph [ref=f3e686]:
+                  - link "Financial Results for quarter and year ended March 31, 2017" [ref=f3e687] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/Financials_for_quarter_and_year_ended_March_31-2017.pdf
+                - paragraph [ref=f3e689]:
+                  - link "Financial Results for the quarter ended December 31, 2016" [ref=f3e690] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/Financials%20Dec%2031,%202016.pdf
+                - paragraph [ref=f3e692]:
+                  - link "Financial Results for the quarter ended September 30, 2016" [ref=f3e693] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/01/Financials%20for%20quarter%20ended%20September%2030,%202016.pdf
+                - paragraph [ref=f3e695]:
+                  - link "Financial Results for the quarter ended June 30, 2016" [ref=f3e696] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/Financial%20Results%20June%2030,%202016.pdf
+                - heading "Subsidiary Financial Statements for the period ended on March 31, 2017" [level=3] [ref=f3e698]
+                - paragraph [ref=f3e699]:
+                  - link "3i Infotech (Africa) Limited" [ref=f3e700] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2017/09/3i-Infotech-Africa-Limited.pdf
+                - paragraph [ref=f3e702]:
+                  - link "3i Infotech (Middle East) FZ LLC" [ref=f3e703] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2017/09/3i-Infotech-Middle-East-FZ-LLC.pdf
+                - paragraph [ref=f3e705]:
+                  - link "3i Infotech (South Africa) (Pty) Limited" [ref=f3e706] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2017/09/3i-Infotech-South-Africa-Pty-Limited.pdf
+                - paragraph [ref=f3e708]:
+                  - link "3i Infotech (Thailand) Limited" [ref=f3e709] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2017/09/3i-Infotech-Thailand-Limited.pdf
+                - paragraph [ref=f3e711]:
+                  - link "3i Infotech Asia Pacific Pte. Limited" [ref=f3e712] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2017/09/3i-Infotech-Asia-Pacific-Pte.-Limited.pdf
+                - paragraph [ref=f3e714]:
+                  - link "3i Infotech BPO Limited" [ref=f3e715] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2017/09/3i-Infotech-BPO-Limited.pdf
+                - paragraph [ref=f3e717]:
+                  - link "3i Infotech Consultancy Services Limited" [ref=f3e718] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2017/09/3i-Infotech-Consultancy-Services-Limited.pdf
+                - paragraph [ref=f3e720]:
+                  - link "3i Infotech Financial Software Inc" [ref=f3e721] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2017/09/3i-Infotech-Financial-Software-Inc.pdf
+                - paragraph [ref=f3e723]:
+                  - link "3i Infotech Holdings Private Limited" [ref=f3e724] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2017/09/3i-Infotech-Holdings-Private-Limited.pdf
+                - paragraph [ref=f3e726]:
+                  - link "3i infotech Inc" [ref=f3e727] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2017/09/3i-infotech-Inc.pdf
+                - paragraph [ref=f3e729]:
+                  - link "3i Infotech Saudi Arabia LLC" [ref=f3e730] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2017/09/3i-Infotech-Saudi-Arabia-LLC.pdf
+                - paragraph [ref=f3e732]:
+                  - link "3i Infotech SDN BHD" [ref=f3e733] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2017/09/3i-Infotech-SDN-BHD.pdf
+                - paragraph [ref=f3e735]:
+                  - link "3i Infotech UK Limited" [ref=f3e736] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2017/09/3i-Infotech-UK-Limited.pdf
+                - paragraph [ref=f3e738]:
+                  - link "Black Barret Holdings Limited" [ref=f3e739] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2017/09/Black-Barret-Holdings-Limited.pdf
+                - paragraph [ref=f3e741]:
+                  - link "IFRS Cloud Solutions Limited" [ref=f3e742] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2017/09/IFRS-Cloud-Solutions-Limmited.pdf
+                - paragraph [ref=f3e744]:
+                  - link "Locuz Enterprise Solutions Limited" [ref=f3e745] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2017/09/Locuz-Enterprise-Solutions-Limited.pdf
+                - paragraph [ref=f3e747]:
+                  - link "Professional Access Software Development Private Limited" [ref=f3e748] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2017/09/Professional-Access-Software-Development-Private-Limited.pdf
+            - generic [ref=f3e750]:
+              - heading "FY15-16" [level=4] [ref=f3e751]
+              - paragraph [ref=f3e752]:
+                - paragraph [ref=f3e753]:
+                  - link "Annual Report FY 2015 – 2016" [ref=f3e754] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/3i%20Infotech%20Annual%20Report%202016.pdf
+                - heading "3i Infotech Limited" [level=3] [ref=f3e756]
+                - paragraph [ref=f3e757]:
+                  - link "Financial Results for the quarter and year ended March 31, 2016" [ref=f3e758] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/Financial%20Results-%20March%2031,%202016.pdf
+                - paragraph [ref=f3e760]:
+                  - link "Financial Results for the quarter and nine months ended December 31, 2015" [ref=f3e761] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/02/Financial-Results-for-the-quarter-and-nine-months-ended-December-31-2015.pdf
+                - paragraph [ref=f3e763]:
+                  - link "Financial Results for quarter and half year ended September 30, 2015" [ref=f3e764] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2018/03/Financial-Results-for-quarter-and-nine-months-ended-September-30-2015.pdf
+                - paragraph [ref=f3e766]:
+                  - link "Financial Results for quarter ended June 30, 2015" [ref=f3e767] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2018/03/Financial-Results-for-quarter-ended-June-30-2015.pdf
+                - paragraph [ref=f3e769]:
+                  - link "Press Release-Q3-FY 2016" [ref=f3e770] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/02/Press-Release-Q3-FY-2016.pdf
+                - heading "Subsidiary Financial Statements for the year ended March 31, 2016" [level=3] [ref=f3e772]
+                - paragraph [ref=f3e773]:
+                  - link "3i Infotech (Africa) Limited" [ref=f3e774] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2018/07/3i-Infotech-Africa-Limited.pdf
+                - paragraph [ref=f3e776]:
+                  - link "3i Infotech (Middle East) FZ LLC" [ref=f3e777] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2018/07/3i-Infotech-Middle-East-FZ-LLC.pdf
+                - paragraph [ref=f3e779]:
+                  - link "3i infotech (Thailand) Limited" [ref=f3e780] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2018/07/3i-infotech-Thailand-Limited.pdf
+                - paragraph [ref=f3e782]:
+                  - link "3i Infotech Africa Ltd" [ref=f3e783] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2018/07/3i-Infotech-Africa-Ltd.pdf
+                - paragraph [ref=f3e785]:
+                  - link "3i Infotech Asia Pacific Pte. Limited" [ref=f3e786] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2018/07/3i-Infotech-Asia-Pacific-Pte.-Limited.pdf
+                - paragraph [ref=f3e788]:
+                  - link "3i Infotech BPO Limited" [ref=f3e789] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2018/07/3i-Infotech-BPO-Limited.pdf
+                - paragraph [ref=f3e791]:
+                  - link "3i Infotech Consultancy Services Limited" [ref=f3e792] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2018/07/3i-Infotech-Consultancy-Services-Limited.pdf
+                - paragraph [ref=f3e794]:
+                  - link "3i Infotech Financial Software Inc" [ref=f3e795] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2018/07/3i-Infotech-Financial-Software-Inc.pdf
+                - paragraph [ref=f3e797]:
+                  - link "3i Infotech Holdings Private Limited" [ref=f3e798] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2018/07/3i-Infotech-Holdings-Private-Limited.pdf
+                - paragraph [ref=f3e800]:
+                  - link "3i Infotech Inc" [ref=f3e801] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2018/07/3i-Infotech-Inc.pdf
+                - paragraph [ref=f3e803]:
+                  - link "3i Infotech Saudi Arabia LLC" [ref=f3e804] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2018/07/3i-Infotech-Saudi-Arabia-LLC.pdf
+                - paragraph [ref=f3e806]:
+                  - link "3i Infotech SDN BHD" [ref=f3e807] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2018/07/3i-Infotech-SDN-BHD.pdf
+                - paragraph [ref=f3e809]:
+                  - link "Black Barret Holdings Private Limited" [ref=f3e810] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2018/07/Black-Barret-Holdings-Private-Limited.pdf
+                - paragraph [ref=f3e812]:
+                  - link "IFRS Cloud Solutions Limited" [ref=f3e813] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2018/07/IFRS-Cloud-Solutions-Limited.pdf
+                - paragraph [ref=f3e815]:
+                  - link "Locuz Enterprise Solutions Limited" [ref=f3e816] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2018/07/Locuz-Enterprise-Solutions-Limited.pdf
+                - paragraph [ref=f3e818]:
+                  - link "Professional Access Software Development Private Limited" [ref=f3e819] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2018/07/Professional-Access-Software-Development-Private-Limited.pdf
+            - generic [ref=f3e821]:
+              - heading "FY14-15" [level=4] [ref=f3e822]
+              - paragraph [ref=f3e823]:
+                - paragraph [ref=f3e824]:
+                  - link "Annual Report FY 2014 – 2015" [ref=f3e825] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/01/FY_2014_2015.pdf
+                - heading "3i Infotech Limited" [level=3] [ref=f3e827]
+                - paragraph [ref=f3e828]: Financial results for the year ended March 31, 2015
+                - paragraph [ref=f3e829]:
+                  - link "FY 15 Financial Results (Statutory Advertisement)" [ref=f3e830] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/FY-15-Financial-Results-Statutory-Advertisement.pdf
+                - heading "Subsidiary Financial Statements for the year ended March 31, 2015" [level=3] [ref=f3e832]
+                - paragraph [ref=f3e833]:
+                  - link "3i Infotech Trusteeship Services Limited" [ref=f3e834] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/3i-Infotech-Trusteeship-Services-Limited.pdf
+                - paragraph [ref=f3e836]:
+                  - link "Professional Access Software Development Private Limited" [ref=f3e837] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/Professional-Access-Software-Development-Private-Limited.pdf
+                - paragraph [ref=f3e839]:
+                  - link "3i Infotech BPO Limited" [ref=f3e840] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/3i-Infotech-BPO-Limited.pdf
+                - paragraph [ref=f3e842]:
+                  - link "3i Infotech Consultancy Services Limited" [ref=f3e843] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/3i-Infotech-Consultancy-Services-Limited.pdf
+                - paragraph [ref=f3e845]:
+                  - link "Locuz Enterprise Solutions Limited" [ref=f3e846] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/Locuz-Enterprise-Solutions-Limited.pdf
+                - paragraph [ref=f3e848]:
+                  - link "IFRS Cloud Solutions Limited (Formerly known as 3i Infotech Outsourcing Services Limited)" [ref=f3e849] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/IFRS-Cloud-Solutions-Limited-Formerly-known-as-3i-Infotech-Outsourcing-Services-Limited.pdf
+                - paragraph [ref=f3e851]:
+                  - link "3i Infotech Inc" [ref=f3e852] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/3i-Infotech-Inc.pdf
+                - paragraph [ref=f3e854]:
+                  - link "3i Infotech Financial Software Inc" [ref=f3e855] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/3i-Infotech-Financial-Software-Inc.pdf
+                - paragraph [ref=f3e857]:
+                  - link "3i Infotech (UK) Limited" [ref=f3e858] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/3i-Infotech-UK-Limited.pdf
+                - paragraph [ref=f3e860]:
+                  - link "3i Infotech Asia Pacific Pte. Limited" [ref=f3e861] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/3i-Infotech-Asia-Pacific-Pte.-Limited.pdf
+                - paragraph [ref=f3e863]:
+                  - link "3i Infotech Holdings Private Limited" [ref=f3e864] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/3i-Infotech-Holdings-Private-Limited.pdf
+                - paragraph [ref=f3e866]:
+                  - link "3i Infotech (Middle East) FZ LLC" [ref=f3e867] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/3i-Infotech-Middle-East-FZ-LLC.pdf
+                - paragraph [ref=f3e869]:
+                  - link "3i Infotech Saudi Arabia LLC" [ref=f3e870] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/3i-Infotech-Saudi-Arabia-LLC.pdf
+                - paragraph [ref=f3e872]:
+                  - link "3i Infotech (Africa) Limited" [ref=f3e873] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/3i-Infotech-Africa-Limited.pdf
+                - paragraph [ref=f3e875]:
+                  - link "3i Infotech (South Africa) (Pty) Limited" [ref=f3e876] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/3i-Infotech-South-Africa-Pty-Limited.pdf
+                - paragraph [ref=f3e878]:
+                  - link "Elegon Infotech Limited" [ref=f3e879] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/Elegon-Infotech-Limited.pdf
+                - paragraph [ref=f3e881]:
+                  - link "Black-Barret Holdings Limited" [ref=f3e882] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/Black-Barret-Holdings-Limited.pdf
+                - paragraph [ref=f3e884]:
+                  - strong [ref=f3e885]: Financials results for the quarter and nine months ended December 31, 2014
+                - paragraph [ref=f3e886]:
+                  - link "Financial Results for quarter and nine months ended December 31, 2014" [ref=f3e887] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2018/03/Financial-Results-for-quarter-and-nine-months-ended-December-312014.pdf
+                - paragraph [ref=f3e889]:
+                  - link "Financial Results for quarter and half year ended September 30, 2014" [ref=f3e890] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2018/03/Finaical-Results-for-quarter-and-ni-half-year-ended-September-30-2014.pdf
+                - paragraph [ref=f3e892]:
+                  - link "Financial Results for quarter ended June 30, 2014" [ref=f3e893] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2018/03/Financial-Results-for-quarter-ended-June-30-2014.pdf
+            - generic [ref=f3e895]:
+              - heading "FY13-14" [level=4] [ref=f3e896]
+              - paragraph [ref=f3e897]:
+                - paragraph [ref=f3e898]:
+                  - link "Annual Report FY 2013 – 2014" [ref=f3e899] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/01/Annual-Report-13-14.pdf
+                - heading "3i Infotech Limited" [level=3] [ref=f3e901]
+                - paragraph [ref=f3e902]: Financial results for the year ended March 31, 2014
+                - paragraph [ref=f3e903]:
+                  - link "FY 14 Financial Results (Statutory Advertisement)" [ref=f3e904] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/FY-14-Financial-Results-Statutory-Advertisement.pdf
+            - generic [ref=f3e906]:
+              - heading "FY12-13" [level=4] [ref=f3e907]
+              - paragraph [ref=f3e908]:
+                - paragraph [ref=f3e909]:
+                  - link "Annual Report FY 2012 – 2013" [ref=f3e910] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/01/3i_Infotech_AR2012-13.pdf
+                - heading "3i Infotech Limited" [level=3] [ref=f3e912]
+                - paragraph [ref=f3e913]: Financial results for the year ended March 31, 2013
+                - paragraph [ref=f3e914]:
+                  - link "FY 13 Financial Results (Statutory Advertisement)" [ref=f3e915] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/press_advt_q4fy13.pdf
+            - generic [ref=f3e917]:
+              - heading "FY11-12" [level=4] [ref=f3e918]
+              - paragraph [ref=f3e919]:
+                - paragraph [ref=f3e920]:
+                  - link "Annual Report FY 2011 – 2012" [ref=f3e921] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/01/3iinfotech_Annual_Report_2012.pdf
+                - heading "3i Infotech Limited" [level=3] [ref=f3e923]
+                - paragraph [ref=f3e924]: Financial results for the year ended March 31, 2012
+                - paragraph [ref=f3e925]:
+                  - link "FY12 Financial Results (Statutory Advertisement)" [ref=f3e926] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/press_advt_q4fy12.pdf
+            - generic [ref=f3e928]:
+              - heading "FY10-11" [level=4] [ref=f3e929]
+              - paragraph [ref=f3e930]:
+                - paragraph [ref=f3e931]:
+                  - link "Annual Report FY 2010 – 2011" [ref=f3e932] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/01/3i-Infotech-Annual-Report-2011.pdf
+                - heading "3i Infotech Limited" [level=3] [ref=f3e934]
+                - paragraph [ref=f3e935]:
+                  - strong [ref=f3e936]: Financial results for the year ended March 31, 2011
+                - paragraph [ref=f3e937]:
+                  - link "Financial Statements for the year ended March 31, 2011 (3i Infotech Limited – Consolidated)" [ref=f3e938] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/conq4fy11.pdf
+                - paragraph [ref=f3e940]:
+                  - link "Financial Statements for the year ended March 31, 2011 (3i Infotech Limited)" [ref=f3e941] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/standalone_march11.pdf
+                - paragraph [ref=f3e943]:
+                  - 'link "Press Release: 3i Infotech’s Revenue at Rs. 2,587.48 crores and Profit at Rs. 253.57 crores for fiscal 2011" [ref=f3e944] [cursor=pointer]':
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/pr_financial_q4fy11.pdf
+                - paragraph [ref=f3e946]:
+                  - link "Financial results for the year ended March 31, 2011 (press advertisement)" [ref=f3e947] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/press_advt_q4fy11.pdf
+                - paragraph [ref=f3e949]:
+                  - link "Analyst Presentation" [ref=f3e950] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/analyst_presentation_q4fy11.pdf
+                - paragraph [ref=f3e952]:
+                  - strong [ref=f3e953]: Financial results for the quarter ended December 31, 2010
+                - paragraph [ref=f3e954]:
+                  - link "Financial Statements for the period ended December 31, 2010 (3i Infotech Limited – Consolidated)" [ref=f3e955] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/conq3fy11.pdf
+                - paragraph [ref=f3e957]:
+                  - 'link "Press Release: 3i Infotech Reports Third Quarter Results" [ref=f3e958] [cursor=pointer]':
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/pr_financial_q3fy11.pdf
+                - paragraph [ref=f3e960]:
+                  - link "Analyst Presentation" [ref=f3e961] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/analyst_presentation_q3fy11.pdf
+                - paragraph [ref=f3e963]:
+                  - link "Financial results for the quarter ended December 31, 2010 (press advertisement)" [ref=f3e964] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/press_advt_q3fy11.pdf
+                - paragraph [ref=f3e966]:
+                  - strong [ref=f3e967]: Financial results for the quarter ended September 30, 2010
+                - paragraph [ref=f3e968]:
+                  - link "Financial Statements for the period ended September 30, 2010 (3i Infotech Limited – Consolidated)" [ref=f3e969] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/conq2fy11.pdf
+                - paragraph [ref=f3e971]:
+                  - link "Analyst Presentation" [ref=f3e972] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/analyst_presentation_q2fy11.pdf
+                - paragraph [ref=f3e974]:
+                  - link "Financial results for the quarter ended September 30, 2010 (press advertisement)" [ref=f3e975] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/press_advt_q2fy11.pdf
+                - paragraph [ref=f3e977]:
+                  - strong [ref=f3e978]: Financial results for the quarter ended June 30, 2010
+                - paragraph [ref=f3e979]:
+                  - link "Financial Statements for the period ended June 30, 2010 (3i Infotech Limited – Consolidated)" [ref=f3e980] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/conq1fy11.pdf
+                - paragraph [ref=f3e982]:
+                  - 'link "Press Release: Revenue grows by 6.8% to Rs. 643.37 crores (USD 140.70 Mn) and profit to Rs. 62.06 crores (USD 13.57 Mn) for the first quarter FY 2010-11" [ref=f3e983] [cursor=pointer]':
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/pr_financial_q1fy11.pdf
+                - paragraph [ref=f3e985]:
+                  - link "Analyst Presentation" [ref=f3e986] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/analyst_presentation_q1fy11.pdf
+                - paragraph [ref=f3e988]:
+                  - link "Financial results for the quarter ended June 30, 2010 (press advertisement)" [ref=f3e989] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/press_advt_q1fy11.pdf
+            - generic [ref=f3e991]:
+              - heading "FY09-10" [level=4] [ref=f3e992]
+              - paragraph [ref=f3e993]:
+                - paragraph [ref=f3e994]:
+                  - link "Annual Report FY 2009 – 2010" [ref=f3e995] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/01/AnnualReport0910.pdf
+                - heading "3i Infotech Limited" [level=3] [ref=f3e997]
+                - paragraph [ref=f3e998]:
+                  - strong [ref=f3e999]: Financial results for the year ended March 31, 2010
+                - paragraph [ref=f3e1000]:
+                  - link "Financial Statements for the year ended March 31, 2010 (3i Infotech Limited)" [ref=f3e1001] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/download/5636/
+                - paragraph [ref=f3e1003]:
+                  - 'link "Press Release: 3i Infotech’s Revenue at Rs. 2,468.75 crores and Profit at Rs. 265.95 crores for fiscal 2010" [ref=f3e1004] [cursor=pointer]':
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/pr_financial_q4fy10.pdf
+                - paragraph [ref=f3e1006]:
+                  - link "Financial results for the year ended March 31, 2010 (press advertisement)" [ref=f3e1007] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/press_advt_q4fy10.pdf
+                - paragraph [ref=f3e1009]:
+                  - link "Details of Accounts of the Subsidiary Companies" [ref=f3e1010] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/Details_Accounts_Subsidiary-Companies_2010.pdf
+                - paragraph [ref=f3e1012]:
+                  - link "Analyst Presentation" [ref=f3e1013] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/analyst_presentation_q4fy10.pdf
+                - paragraph [ref=f3e1015]:
+                  - strong [ref=f3e1016]: Financial results for the quarter ended December 31, 2009
+                - paragraph [ref=f3e1017]:
+                  - link "Financial Statements for the period ended December 31, 2009 (3i Infotech Limited – Consolidated)" [ref=f3e1018] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/conq3fy10.pdf
+                - paragraph [ref=f3e1020]:
+                  - link "Financial Statements for the period ended December 31, 2009 (3i Infotech Limited)" [ref=f3e1021] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/standalone_dec09.pdf
+                - paragraph [ref=f3e1023]:
+                  - 'link "Press Release: 3i Infotech’s revenue grows by 8.4% to Rs. 1,836.15 crores and profit to Rs. 200.64 crores for the nine months of fiscal 2009-10" [ref=f3e1024] [cursor=pointer]':
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/pr_financial_q3fy10.pdf
+                - paragraph [ref=f3e1026]:
+                  - link "Financial results for the quarter ended December 31, 2009 (press advertisement)" [ref=f3e1027] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/press_advt_q3fy10.pdf
+                - paragraph [ref=f3e1029]:
+                  - link "Analyst Presentation" [ref=f3e1030] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/analyst_presentation_q3fy10.pdf
+                - paragraph [ref=f3e1032]:
+                  - strong [ref=f3e1033]: Financial results for the quarter ended September 30, 2009
+                - paragraph [ref=f3e1034]:
+                  - link "Financial Statements for the period ended September 30, 2009 (3i Infotech Limited – Consolidated)" [ref=f3e1035] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/conq2fy10.pdf
+                - paragraph [ref=f3e1037]:
+                  - link "Financial Statements for the period ended September 30, 2009 (3i Infotech Limited)" [ref=f3e1038] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/standalone-september09.pdf
+                - paragraph [ref=f3e1040]:
+                  - 'link "Press Release: 3i Infotech records revenue of Rs. 1,234.29 crores and net profit of Rs. 147.99 crores in first half of fiscal 2010" [ref=f3e1041] [cursor=pointer]':
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/pr_financial_q2fy10.pdf
+                - paragraph [ref=f3e1043]:
+                  - link "Analyst Presentation" [ref=f3e1044] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/analyst_presentation_q2fy10.pdf
+                - paragraph [ref=f3e1046]:
+                  - link "Financial results for the quarter ended September 30, 2009 (press advertisement)" [ref=f3e1047] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/pa_q2fy10.pdf
+                - paragraph [ref=f3e1049]:
+                  - strong [ref=f3e1050]: Financial results for the quarter ended June 30, 2009
+                - paragraph [ref=f3e1051]:
+                  - link "Financial Statements for the period ended June 30, 2009 (3i Infotech Limited – Consolidated)" [ref=f3e1052] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/conq1fy10.pdf
+                - paragraph [ref=f3e1054]:
+                  - link "Financial Statements for the period ended June 30, 2009 (3i Infotech Limited)" [ref=f3e1055] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/standalone-Jun09.pdf
+                - paragraph [ref=f3e1057]:
+                  - 'link "Press Release: Revenue grows by 27.7% to Rs. 602.14 crores and profit to Rs. 62.93 crores for the first quarter FY 2009-10" [ref=f3e1058] [cursor=pointer]':
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/pr_financial_q1fy10.pdf
+                - paragraph [ref=f3e1060]:
+                  - link "Analyst Presentation" [ref=f3e1061] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/analyst_presentation_q1fy10.pdf
+                - paragraph [ref=f3e1063]:
+                  - link "Financial results for the quarter ended June 30, 2009 (press advertisement)" [ref=f3e1064] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2016/03/pa_q1fy10.pdf
+            - generic [ref=f3e1066]:
+              - heading "FY08-09" [level=4] [ref=f3e1067]
+              - paragraph [ref=f3e1068]:
+                - paragraph [ref=f3e1069]:
+                  - link "Annual Report FY 2008 – 2009" [ref=f3e1070] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2018/07/AnnualReport-2008-09.pdf
+            - generic [ref=f3e1072]:
+              - heading "FY07-08" [level=4] [ref=f3e1073]
+              - paragraph [ref=f3e1074]:
+                - paragraph [ref=f3e1075]:
+                  - link "Annual Report FY 2007 – 2008" [ref=f3e1076] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2018/07/2007-08.pdf
+            - generic [ref=f3e1078]:
+              - heading "FY06-07" [level=4] [ref=f3e1079]
+              - paragraph [ref=f3e1080]:
+                - paragraph [ref=f3e1081]:
+                  - link "Annual Report FY 2006 – 2007" [ref=f3e1082] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2018/07/2006-2007.pdf
+            - generic [ref=f3e1084]:
+              - heading "FY05-06" [level=4] [ref=f3e1085]
+              - paragraph [ref=f3e1086]:
+                - paragraph [ref=f3e1087]:
+                  - link "Annual Report FY 2005 – 2006" [ref=f3e1088] [cursor=pointer]:
+                    - /url: https://www.3i-infotech.com/wp-content/uploads/downloads/2018/07/2005-2006.pdf
+        - generic [ref=f3e1091]:
+          - heading "Investors Information Hub" [level=4] [ref=f3e1093]
+          - generic [ref=f3e1094]:
+            - heading "Financial Results" [level=6] [ref=f3e1101]
+            - link [ref=f3e1102] [cursor=pointer]:
+              - /url: https://test.3i-infotech.com/financial-results/
+          - generic [ref=f3e1103]:
+            - heading "Investor Meet" [level=6] [ref=f3e1110]
+            - link [ref=f3e1111] [cursor=pointer]:
+              - /url: https://test.3i-infotech.com/investor-meet/
+          - generic [ref=f3e1112]:
+            - heading "Annual Report" [level=6] [ref=f3e1119]
+            - link [ref=f3e1120] [cursor=pointer]:
+              - /url: https://test.3i-infotech.com/annual-report/
+          - generic [ref=f3e1121]:
+            - heading "Corporate Governance" [level=6] [ref=f3e1128]
+            - link [ref=f3e1129] [cursor=pointer]:
+              - /url: https://test.3i-infotech.com/corporate-governance/
+          - generic [ref=f3e1130]:
+            - heading "Disclosures under regulation 46 of SEBI LODR" [level=6] [ref=f3e1137]
+            - link [ref=f3e1138] [cursor=pointer]:
+              - /url: https://test.3i-infotech.com/disclosures-under-regulation-46-of-sebi-lodr/
+          - generic [ref=f3e1139]:
+            - heading "Announcement" [level=6] [ref=f3e1146]
+            - link [ref=f3e1147] [cursor=pointer]:
+              - /url: https://test.3i-infotech.com/investor-announcement/
+          - generic [ref=f3e1148]:
+            - heading "Scheme of Arrangement / Amalgamation" [level=6] [ref=f3e1155]
+            - link [ref=f3e1156] [cursor=pointer]:
+              - /url: https://test.3i-infotech.com/scheme-of-arrangement-scheme-of-amalgamation/
+          - generic [ref=f3e1157]:
+            - heading "Investor Information" [level=6] [ref=f3e1164]
+            - link [ref=f3e1165] [cursor=pointer]:
+              - /url: https://test.3i-infotech.com/investor-information/
+          - generic [ref=f3e1166]:
+            - heading "Rights Issue" [level=6] [ref=f3e1173]
+            - link [ref=f3e1174] [cursor=pointer]:
+              - /url: https://test.3i-infotech.com/rights-issue/
+    - contentinfo [ref=f3e1175]:
+      - generic [ref=f3e1180]:
+        - generic [ref=f3e1182]:
+          - list [ref=f3e1186]:
+            - listitem [ref=f3e1187]:
+              - link "Banking & Financial Services" [ref=f3e1188] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/banking-and-finance/
+            - listitem [ref=f3e1190]:
+              - link "Insurance" [ref=f3e1191] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/insurance/
+            - listitem [ref=f3e1193]:
+              - link "Government" [ref=f3e1194] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/government/
+            - listitem [ref=f3e1196]:
+              - link "Education" [ref=f3e1197] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/education/
+            - listitem [ref=f3e1199]:
+              - link "Telecom, Media & Entertainment" [ref=f3e1200] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/telecom/
+            - listitem [ref=f3e1202]:
+              - link "Manufacturing" [ref=f3e1203] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/manufacturing/
+            - listitem [ref=f3e1205]:
+              - link "Healthcare" [ref=f3e1206] [cursor=pointer]:
+                - /url: https://test.3i-infotech.com/healthcare/
+          - list [ref=f3e1210]:
+            - listitem [ref=f3e1211]:
+              - link "About Us" [ref=f3e1212] [cursor=pointer]:
+                - /url: /company
+            - listitem [ref=f3e1214]:
+              - link "Life@3i" [ref=f3e1215] [cursor=pointer]:
+                - /url: /life-at-3i
+            - listitem [ref=f3e1217]:
+              - link "Investors" [ref=f3e1218] [cursor=pointer]:
+                - /url: /Investors/
+            - listitem [ref=f3e1220]:
+              - link "Perspectives" [ref=f3e1221] [cursor=pointer]:
+                - /url: /Perspectives/
+            - listitem [ref=f3e1223]:
+              - link "Contact Us" [ref=f3e1224] [cursor=pointer]:
+                - /url: /Contact-us/
+          - generic [ref=f3e1226]:
+            - generic [ref=f3e1228]:
+              - generic [aria-hidden] [ref=f3e1231]: 
+              - generic [ref=f3e1232]:
+                - heading "Business & Marketing Enquiries" [level=3] [ref=f3e1233]
+                - paragraph [ref=f3e1234]:
+                  - link "marketing@3i-infotech.com" [ref=f3e1235] [cursor=pointer]:
+                    - /url: mailto:marketing@3i-infotech.com
+            - generic [ref=f3e1237]:
+              - generic [aria-hidden] [ref=f3e1240]: 
+              - generic [ref=f3e1241]:
+                - heading "Career Enquiries" [level=3] [ref=f3e1242]
+                - paragraph [ref=f3e1243]:
+                  - link "careers@3i-infotech.com" [ref=f3e1244] [cursor=pointer]:
+                    - /url: mailto:careers@3i-infotech.com
+            - generic [ref=f3e1246]:
+              - generic [aria-hidden] [ref=f3e1249]: 
+              - generic [ref=f3e1250]:
+                - heading "Alumni Enquiries" [level=3] [ref=f3e1251]
+                - paragraph [ref=f3e1252]:
+                  - link "alumni@3i-infotech.com" [ref=f3e1253] [cursor=pointer]:
+                    - /url: mailto:alumni@3i-infotech.com
+        - generic [ref=f3e1254]:
+          - generic [ref=f3e1255]: ©2026 3i Infotech Limited. All Rights Reserved.
+          - list [ref=f3e1258]:
+            - listitem [ref=f3e1259]:
+              - link "Contact" [ref=f3e1260] [cursor=pointer]:
+                - /url: /contact-us/
+            - listitem [ref=f3e1262]:
+              - link "Privacy Policy" [ref=f3e1263] [cursor=pointer]:
+                - /url: /privacy-policy/
+            - listitem [ref=f3e1265]:
+              - link "Location" [ref=f3e1266] [cursor=pointer]:
+                - /url: /company/#footprint
+            - listitem [ref=f3e1268]:
+              - link "Site Map" [ref=f3e1269] [cursor=pointer]:
+                - /url: /sitemap.xml
+            - listitem [ref=f3e1271]:
+              - link "Grievance Redressal" [ref=f3e1272] [cursor=pointer]:
+                - /url: /grievance-redressal/
+          - list [ref=f3e1275]:
+            - listitem [ref=f3e1276]:
+              - link "Linkedin" [ref=f3e1277] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/3i-infotech/?originalSubdomain=in
+            - listitem [ref=f3e1281]:
+              - link "X-twitter" [ref=f3e1282] [cursor=pointer]:
+                - /url: https://x.com/3iInfotech
+            - listitem [ref=f3e1286]:
+              - link "Youtube" [ref=f3e1287] [cursor=pointer]:
+                - /url: https://www.youtube.com/@3iinfotechltd
+            - listitem [ref=f3e1291]:
+              - link "Instagram" [ref=f3e1292] [cursor=pointer]:
+                - /url: https://www.instagram.com/3iinfotechofficial/
+  - generic:
+    - generic [ref=f3e1297] [cursor=pointer]
+    - generic [ref=f3e1299]:
+      - generic [ref=f3e1300] [cursor=pointer]
+      - generic [ref=f3e1301]: Shopping Basket
+    - text: 
+  - generic [ref=f3e1303] [cursor=pointer]
+  - generic [ref=f3e1306]: desktop

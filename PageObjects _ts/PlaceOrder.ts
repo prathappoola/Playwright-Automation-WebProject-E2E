@@ -38,10 +38,19 @@ export class PlaceOrderPage {
        await this.NameOnCard.fill(name);
    }
 
-   async ClickOnPlaceOrderButton() {
-       await this.placeOrderButton.scrollIntoViewIfNeeded();
-       await this.placeOrderButton.click();
-   }
+   
+async ClickOnPlaceOrderButton() {
+    await this.placeOrderButton.waitFor({ state: 'visible' });
+
+    // Wait for the address/autocomplete overlay to disappear
+    await this.page.locator('.ta-backdrop').waitFor({
+        state: 'hidden',
+        timeout: 15000
+    });
+
+    await this.placeOrderButton.click({ timeout: 15000 });
+}
+
 
    async VerifyPlaceOrderText() {
        await expect(this.orderConfirmation).toBeVisible({ timeout: 20000 });

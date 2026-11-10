@@ -35,7 +35,14 @@ export class HomePage {
         await this.AddToCartButtonForZaraCoat2.click();
     }
 
-    async LogoutFromApplication() {
-        await this.signOutButton.click();
-    }
+    
+async LogoutFromApplication() {
+    await this.page.locator('.ta-backdrop').waitFor({
+        state: 'hidden',
+        timeout: 15000
+    });
+
+    await this.signOutButton.click({ timeout: 15000 });
+}
+
 }

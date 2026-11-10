@@ -1,4 +1,4 @@
-import { test, expect } from './fixtures.js';
+import { test, expect } from './fixtures';
 
 test('Fixtures demo authenticates and logs out', async ({ page, authenticatedSession }) => {
     const { homePage } = authenticatedSession;
