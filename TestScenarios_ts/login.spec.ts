@@ -1,11 +1,11 @@
 import { test } from './fixtures';
-import { CheckOutPage } from '../PageObjects/CheckOut.js';
-import { PlacceOrderPage } from '../PageObjects/PlaceOrder.js';
+import { CheckOutPage } from '../PageObjects _ts/CheckOut.js';
+import { PlaceOrderPage } from '../PageObjects _ts/PlaceOrder.js';
 
 test('E2E Scenario 1', async ({ page, authenticatedSession }) => {
     const { homePage } = authenticatedSession;
     const checkOutPageInstance = new CheckOutPage(page);
-    const placeOrderInstance = new PlacceOrderPage(page);
+    const placeOrderInstance = new PlaceOrderPage(page);
 
     await homePage.AddToCart();
 
@@ -24,7 +24,7 @@ test(' @Regression E2E Scenario for ZARA COAT 2', async ({ page, authenticatedSe
     const { homePage } = authenticatedSession;
     await homePage.AddToCartForZaraCoat2();
     const checkOutPageInstance = new CheckOutPage(page);
-    const placeOrderInstance = new PlacceOrderPage(page);
+    const placeOrderInstance = new PlaceOrderPage(page);
 
     await homePage.AddToCart();
 
