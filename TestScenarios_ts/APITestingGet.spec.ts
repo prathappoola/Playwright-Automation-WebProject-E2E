@@ -23,6 +23,7 @@ test('API Testing Get', async ({ request }) => {
     expect(response.status()).toBe(200);
     expect(response.ok()).toBeTruthy();
     expect(response.statusText()).toBe('OK');
+    console.log("Prathap")
 });
 
 
